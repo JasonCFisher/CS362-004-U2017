@@ -65,9 +65,29 @@ unittestresults.out: unittest1.c unittest2.c unittest3.c unittest4.c cardtest1.c
 	gcov -c -b dominion.c >> unittestresults.out
 	cat dominion.c.gcov >> unittestresults.out
 
-randomtestcard.out: randomtestcard1.c dominion.o rngs.o
+randomtestcard.out: randomtestcard1.c randomtestcard2.c dominion.o rngs.o
+	echo "Results for Dominion Tests" > randomtestadventurer.out
+	echo "Name:  Jason Fisher;  ONID:  fishejas" >> randomtestadventurer.out
+	echo "randomtestadventurer.c" >> randomtestadventurer.out
+	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
+	./randomtestadventurer >> randomtestadventurer.out
+	gcov -c -b dominion.c >> randomtestadventurer.out
+	cat dominion.c.gcov >> randomtestadventurer.out
+	echo "Results for Dominion Tests" > randomtestcard1.out
+	echo "Name:  Jason Fisher;  ONID:  fishejas" >> randomtestcard1.out
+	echo "randomtestcard1.c" >> randomtestcard1.out
 	gcc -o randomtestcard1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
-	./randomtestcard1
+	./randomtestcard1 >> randomtestcard1.out
+	gcov -c -b dominion.c >> randomtestcard1.out
+	cat dominion.c.gcov >> randomtestcard1.out
+	echo "Results for Dominion Tests" > randomtestcard2.out
+	echo "Name:  Jason Fisher;  ONID:  fishejas" >> randomtestcard2.out
+	echo "randomtestcard2.c" >> randomtestcard2.out
+	gcc -o randomtestcard2 -g randomtestcard2.c dominion.o rngs.o $(CFLAGS)
+	./randomtestcard2 >> randomtestcard2.out
+	gcov -c -b dominion.c >> randomtestcard2.out
+	cat dominion.c.gcov >> randomtestcard2.out
+
 
 clean:
 	rm -f *.o playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe

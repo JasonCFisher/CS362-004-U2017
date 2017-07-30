@@ -1,0 +1,3025 @@
+Results for Dominion Tests
+Name:  Jason Fisher;  ONID:  fishejas
+randomtestadventurer.c
+----------------- Testing Function: Adventurer ----------------
+
+Test 0, Current player is 2
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 0  :  Expected 0  :  PASS
+Combined Deck and Discard for Player 1 10  :  Expected 10  :  PASS
+handCount for Player 2 184  :  Expected 160  :  FAIL
+Combined Deck and Discard for Player 2 183  :  Expected 206  :  FAIL
+handCount for Player 3 0  :  Expected 0  :  PASS
+Combined Deck and Discard for Player 3 10  :  Expected 10  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 1, Current player is 1
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 97  :  Expected 83  :  FAIL
+Combined Deck and Discard for Player 1 246  :  Expected 259  :  FAIL
+handCount for Player 2 159  :  Expected 159  :  PASS
+Combined Deck and Discard for Player 2 208  :  Expected 208  :  PASS
+handCount for Player 3 0  :  Expected 0  :  PASS
+Combined Deck and Discard for Player 3 10  :  Expected 10  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 2, Current player is 3
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 82  :  Expected 82  :  PASS
+Combined Deck and Discard for Player 1 261  :  Expected 261  :  PASS
+handCount for Player 2 159  :  Expected 159  :  PASS
+Combined Deck and Discard for Player 2 208  :  Expected 208  :  PASS
+handCount for Player 3 134  :  Expected 117  :  FAIL
+Combined Deck and Discard for Player 3 316  :  Expected 332  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 3, Current player is 2
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 82  :  Expected 82  :  PASS
+Combined Deck and Discard for Player 1 261  :  Expected 261  :  PASS
+handCount for Player 2 98  :  Expected 88  :  FAIL
+Combined Deck and Discard for Player 2 356  :  Expected 365  :  FAIL
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 4, Current player is 2
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 82  :  Expected 82  :  PASS
+Combined Deck and Discard for Player 1 261  :  Expected 261  :  PASS
+handCount for Player 2 228  :  Expected 221  :  FAIL
+Combined Deck and Discard for Player 2 229  :  Expected 235  :  FAIL
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 5, Current player is 1
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 187  :  Expected 178  :  FAIL
+Combined Deck and Discard for Player 1 145  :  Expected 153  :  FAIL
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 6, Current player is 1
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 72  :  Expected 55  :  FAIL
+Combined Deck and Discard for Player 1 355  :  Expected 371  :  FAIL
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 7, Current player is 1
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 138  :  Expected 133  :  FAIL
+Combined Deck and Discard for Player 1 268  :  Expected 272  :  FAIL
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 8, Current player is 1
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 203  :  Expected 197  :  FAIL
+Combined Deck and Discard for Player 1 193  :  Expected 198  :  FAIL
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 9, Current player is 1
+handCount for Player 0 5  :  Expected 5  :  PASS
+Combined Deck and Discard for Player 0 5  :  Expected 5  :  PASS
+handCount for Player 1 98  :  Expected 93  :  FAIL
+Combined Deck and Discard for Player 1 323  :  Expected 327  :  FAIL
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 10, Current player is 0
+handCount for Player 0 188  :  Expected 167  :  FAIL
+Combined Deck and Discard for Player 0 232  :  Expected 252  :  FAIL
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 116  :  Expected 116  :  PASS
+Combined Deck and Discard for Player 3 334  :  Expected 334  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 11, Current player is 3
+handCount for Player 0 166  :  Expected 166  :  PASS
+Combined Deck and Discard for Player 0 254  :  Expected 254  :  PASS
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 127  :  Expected 119  :  FAIL
+Combined Deck and Discard for Player 3 338  :  Expected 345  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 12, Current player is 0
+handCount for Player 0 29  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 0 422  :  Expected 423  :  FAIL
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 118  :  Expected 118  :  PASS
+Combined Deck and Discard for Player 3 347  :  Expected 347  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 13, Current player is 0
+handCount for Player 0 77  :  Expected 68  :  FAIL
+Combined Deck and Discard for Player 0 297  :  Expected 305  :  FAIL
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 118  :  Expected 118  :  PASS
+Combined Deck and Discard for Player 3 347  :  Expected 347  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 14, Current player is 3
+handCount for Player 0 67  :  Expected 67  :  PASS
+Combined Deck and Discard for Player 0 307  :  Expected 307  :  PASS
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 336  :  Expected 313  :  FAIL
+Combined Deck and Discard for Player 3 121  :  Expected 143  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 15, Current player is 3
+handCount for Player 0 67  :  Expected 67  :  PASS
+Combined Deck and Discard for Player 0 307  :  Expected 307  :  PASS
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 305  :  Expected 252  :  FAIL
+Combined Deck and Discard for Player 3 194  :  Expected 246  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 16, Current player is 0
+handCount for Player 0 28  :  Expected 26  :  FAIL
+Combined Deck and Discard for Player 0 262  :  Expected 263  :  FAIL
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 220  :  Expected 220  :  PASS
+Combined Deck and Discard for Player 2 237  :  Expected 237  :  PASS
+handCount for Player 3 251  :  Expected 251  :  PASS
+Combined Deck and Discard for Player 3 248  :  Expected 248  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 17, Current player is 2
+handCount for Player 0 25  :  Expected 25  :  PASS
+Combined Deck and Discard for Player 0 265  :  Expected 265  :  PASS
+handCount for Player 1 92  :  Expected 92  :  PASS
+Combined Deck and Discard for Player 1 329  :  Expected 329  :  PASS
+handCount for Player 2 200  :  Expected 173  :  FAIL
+Combined Deck and Discard for Player 2 204  :  Expected 230  :  FAIL
+handCount for Player 3 251  :  Expected 251  :  PASS
+Combined Deck and Discard for Player 3 248  :  Expected 248  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 18, Current player is 1
+handCount for Player 0 25  :  Expected 25  :  PASS
+Combined Deck and Discard for Player 0 265  :  Expected 265  :  PASS
+handCount for Player 1 285  :  Expected 274  :  FAIL
+Combined Deck and Discard for Player 1 211  :  Expected 221  :  FAIL
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 251  :  Expected 251  :  PASS
+Combined Deck and Discard for Player 3 248  :  Expected 248  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 19, Current player is 3
+handCount for Player 0 25  :  Expected 25  :  PASS
+Combined Deck and Discard for Player 0 265  :  Expected 265  :  PASS
+handCount for Player 1 273  :  Expected 273  :  PASS
+Combined Deck and Discard for Player 1 223  :  Expected 223  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 161  :  Expected 132  :  FAIL
+Combined Deck and Discard for Player 3 258  :  Expected 286  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 20, Current player is 0
+handCount for Player 0 31  :  Expected 9  :  FAIL
+Combined Deck and Discard for Player 0 327  :  Expected 348  :  FAIL
+handCount for Player 1 273  :  Expected 273  :  PASS
+Combined Deck and Discard for Player 1 223  :  Expected 223  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 131  :  Expected 131  :  PASS
+Combined Deck and Discard for Player 3 288  :  Expected 288  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 21, Current player is 3
+handCount for Player 0 8  :  Expected 8  :  PASS
+Combined Deck and Discard for Player 0 350  :  Expected 350  :  PASS
+handCount for Player 1 273  :  Expected 273  :  PASS
+Combined Deck and Discard for Player 1 223  :  Expected 223  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 146  :  Expected 138  :  FAIL
+Combined Deck and Discard for Player 3 283  :  Expected 290  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 22, Current player is 1
+handCount for Player 0 8  :  Expected 8  :  PASS
+Combined Deck and Discard for Player 0 350  :  Expected 350  :  PASS
+handCount for Player 1 52  :  Expected 42  :  FAIL
+Combined Deck and Discard for Player 1 432  :  Expected 441  :  FAIL
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 23, Current player is 1
+handCount for Player 0 8  :  Expected 8  :  PASS
+Combined Deck and Discard for Player 0 350  :  Expected 350  :  PASS
+handCount for Player 1 197  :  Expected 189  :  FAIL
+Combined Deck and Discard for Player 1 160  :  Expected 167  :  FAIL
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 24, Current player is 1
+handCount for Player 0 8  :  Expected 8  :  PASS
+Combined Deck and Discard for Player 0 350  :  Expected 350  :  PASS
+handCount for Player 1 25  :  Expected 11  :  FAIL
+Combined Deck and Discard for Player 1 78  :  Expected 91  :  FAIL
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 25, Current player is 0
+handCount for Player 0 198  :  Expected 184  :  FAIL
+Combined Deck and Discard for Player 0 238  :  Expected 251  :  FAIL
+handCount for Player 1 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 1 93  :  Expected 93  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 26, Current player is 0
+handCount for Player 0 175  :  Expected 158  :  FAIL
+Combined Deck and Discard for Player 0 243  :  Expected 259  :  FAIL
+handCount for Player 1 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 1 93  :  Expected 93  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 27, Current player is 1
+handCount for Player 0 157  :  Expected 157  :  PASS
+Combined Deck and Discard for Player 0 261  :  Expected 261  :  PASS
+handCount for Player 1 105  :  Expected 99  :  FAIL
+Combined Deck and Discard for Player 1 250  :  Expected 255  :  FAIL
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 28, Current player is 0
+handCount for Player 0 49  :  Expected 30  :  FAIL
+Combined Deck and Discard for Player 0 219  :  Expected 237  :  FAIL
+handCount for Player 1 98  :  Expected 98  :  PASS
+Combined Deck and Discard for Player 1 257  :  Expected 257  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 29, Current player is 1
+handCount for Player 0 29  :  Expected 29  :  PASS
+Combined Deck and Discard for Player 0 239  :  Expected 239  :  PASS
+handCount for Player 1 228  :  Expected 225  :  FAIL
+Combined Deck and Discard for Player 1 61  :  Expected 63  :  FAIL
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 30, Current player is 0
+handCount for Player 0 145  :  Expected 123  :  FAIL
+Combined Deck and Discard for Player 0 317  :  Expected 338  :  FAIL
+handCount for Player 1 224  :  Expected 224  :  PASS
+Combined Deck and Discard for Player 1 65  :  Expected 65  :  PASS
+handCount for Player 2 172  :  Expected 172  :  PASS
+Combined Deck and Discard for Player 2 232  :  Expected 232  :  PASS
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 31, Current player is 2
+handCount for Player 0 122  :  Expected 122  :  PASS
+Combined Deck and Discard for Player 0 340  :  Expected 340  :  PASS
+handCount for Player 1 224  :  Expected 224  :  PASS
+Combined Deck and Discard for Player 1 65  :  Expected 65  :  PASS
+handCount for Player 2 139  :  Expected 131  :  FAIL
+Combined Deck and Discard for Player 2 286  :  Expected 293  :  FAIL
+handCount for Player 3 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 3 292  :  Expected 292  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 32, Current player is 1
+
+Test 33, Current player is 3
+handCount for Player 0 122  :  Expected 122  :  PASS
+Combined Deck and Discard for Player 0 340  :  Expected 340  :  PASS
+handCount for Player 1 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 1 39  :  Expected 39  :  PASS
+handCount for Player 2 130  :  Expected 130  :  PASS
+Combined Deck and Discard for Player 2 295  :  Expected 295  :  PASS
+handCount for Player 3 201  :  Expected 184  :  FAIL
+Combined Deck and Discard for Player 3 257  :  Expected 273  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 34, Current player is 0
+handCount for Player 0 135  :  Expected 126  :  FAIL
+Combined Deck and Discard for Player 0 330  :  Expected 338  :  FAIL
+handCount for Player 1 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 1 39  :  Expected 39  :  PASS
+handCount for Player 2 130  :  Expected 130  :  PASS
+Combined Deck and Discard for Player 2 295  :  Expected 295  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 35, Current player is 0
+handCount for Player 0 223  :  Expected 219  :  FAIL
+Combined Deck and Discard for Player 0 243  :  Expected 246  :  FAIL
+handCount for Player 1 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 1 39  :  Expected 39  :  PASS
+handCount for Player 2 130  :  Expected 130  :  PASS
+Combined Deck and Discard for Player 2 295  :  Expected 295  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 36, Current player is 1
+handCount for Player 0 218  :  Expected 218  :  PASS
+Combined Deck and Discard for Player 0 248  :  Expected 248  :  PASS
+handCount for Player 1 54  :  Expected 48  :  FAIL
+Combined Deck and Discard for Player 1 392  :  Expected 397  :  FAIL
+handCount for Player 2 130  :  Expected 130  :  PASS
+Combined Deck and Discard for Player 2 295  :  Expected 295  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 37, Current player is 2
+handCount for Player 0 218  :  Expected 218  :  PASS
+Combined Deck and Discard for Player 0 248  :  Expected 248  :  PASS
+handCount for Player 1 47  :  Expected 47  :  PASS
+Combined Deck and Discard for Player 1 399  :  Expected 399  :  PASS
+handCount for Player 2 130  :  Expected 108  :  FAIL
+Combined Deck and Discard for Player 2 206  :  Expected 227  :  FAIL
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 38, Current player is 0
+handCount for Player 0 315  :  Expected 291  :  FAIL
+Combined Deck and Discard for Player 0 83  :  Expected 106  :  FAIL
+handCount for Player 1 47  :  Expected 47  :  PASS
+Combined Deck and Discard for Player 1 399  :  Expected 399  :  PASS
+handCount for Player 2 107  :  Expected 107  :  PASS
+Combined Deck and Discard for Player 2 229  :  Expected 229  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 39, Current player is 0
+handCount for Player 0 93  :  Expected 73  :  FAIL
+Combined Deck and Discard for Player 0 278  :  Expected 297  :  FAIL
+handCount for Player 1 47  :  Expected 47  :  PASS
+Combined Deck and Discard for Player 1 399  :  Expected 399  :  PASS
+handCount for Player 2 107  :  Expected 107  :  PASS
+Combined Deck and Discard for Player 2 229  :  Expected 229  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 40, Current player is 2
+handCount for Player 0 72  :  Expected 72  :  PASS
+Combined Deck and Discard for Player 0 299  :  Expected 299  :  PASS
+handCount for Player 1 47  :  Expected 47  :  PASS
+Combined Deck and Discard for Player 1 399  :  Expected 399  :  PASS
+handCount for Player 2 37  :  Expected 19  :  FAIL
+Combined Deck and Discard for Player 2 395  :  Expected 412  :  FAIL
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 41, Current player is 1
+handCount for Player 0 72  :  Expected 72  :  PASS
+Combined Deck and Discard for Player 0 299  :  Expected 299  :  PASS
+handCount for Player 1 188  :  Expected 170  :  FAIL
+Combined Deck and Discard for Player 1 198  :  Expected 215  :  FAIL
+handCount for Player 2 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 2 414  :  Expected 414  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 42, Current player is 0
+handCount for Player 0 94  :  Expected 66  :  FAIL
+Combined Deck and Discard for Player 0 215  :  Expected 242  :  FAIL
+handCount for Player 1 169  :  Expected 169  :  PASS
+Combined Deck and Discard for Player 1 217  :  Expected 217  :  PASS
+handCount for Player 2 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 2 414  :  Expected 414  :  PASS
+handCount for Player 3 183  :  Expected 183  :  PASS
+Combined Deck and Discard for Player 3 275  :  Expected 275  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 43, Current player is 3
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 169  :  Expected 169  :  PASS
+Combined Deck and Discard for Player 1 217  :  Expected 217  :  PASS
+handCount for Player 2 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 2 414  :  Expected 414  :  PASS
+handCount for Player 3 331  :  Expected 310  :  FAIL
+Combined Deck and Discard for Player 3 59  :  Expected 79  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 44, Current player is 3
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 169  :  Expected 169  :  PASS
+Combined Deck and Discard for Player 1 217  :  Expected 217  :  PASS
+handCount for Player 2 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 2 414  :  Expected 414  :  PASS
+handCount for Player 3 67  :  Expected 59  :  FAIL
+Combined Deck and Discard for Player 3 326  :  Expected 333  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 45, Current player is 1
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 256  :  Expected 236  :  FAIL
+Combined Deck and Discard for Player 1 71  :  Expected 90  :  FAIL
+handCount for Player 2 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 2 414  :  Expected 414  :  PASS
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 46, Current player is 2
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 235  :  Expected 235  :  PASS
+Combined Deck and Discard for Player 1 92  :  Expected 92  :  PASS
+handCount for Player 2 235  :  Expected 229  :  FAIL
+Combined Deck and Discard for Player 2 256  :  Expected 261  :  FAIL
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 47, Current player is 2
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 235  :  Expected 235  :  PASS
+Combined Deck and Discard for Player 1 92  :  Expected 92  :  PASS
+handCount for Player 2 126  :  Expected 114  :  FAIL
+Combined Deck and Discard for Player 2 357  :  Expected 368  :  FAIL
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 48, Current player is 1
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 53  :  Expected 18  :  FAIL
+Combined Deck and Discard for Player 1 279  :  Expected 313  :  FAIL
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 49, Current player is 1
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 158  :  Expected 135  :  FAIL
+Combined Deck and Discard for Player 1 333  :  Expected 355  :  FAIL
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 50, Current player is 1
+handCount for Player 0 65  :  Expected 65  :  PASS
+Combined Deck and Discard for Player 0 244  :  Expected 244  :  PASS
+handCount for Player 1 59  :  Expected 54  :  FAIL
+Combined Deck and Discard for Player 1 300  :  Expected 304  :  FAIL
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 51, Current player is 0
+handCount for Player 0 47  :  Expected 21  :  FAIL
+Combined Deck and Discard for Player 0 57  :  Expected 82  :  FAIL
+handCount for Player 1 53  :  Expected 53  :  PASS
+Combined Deck and Discard for Player 1 306  :  Expected 306  :  PASS
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 335  :  Expected 335  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 52, Current player is 3
+handCount for Player 0 20  :  Expected 20  :  PASS
+Combined Deck and Discard for Player 0 84  :  Expected 84  :  PASS
+handCount for Player 1 53  :  Expected 53  :  PASS
+Combined Deck and Discard for Player 1 306  :  Expected 306  :  PASS
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 70  :  Expected 57  :  FAIL
+Combined Deck and Discard for Player 3 317  :  Expected 329  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 53, Current player is 1
+handCount for Player 0 20  :  Expected 20  :  PASS
+Combined Deck and Discard for Player 0 84  :  Expected 84  :  PASS
+handCount for Player 1 217  :  Expected 199  :  FAIL
+Combined Deck and Discard for Player 1 50  :  Expected 67  :  FAIL
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 56  :  Expected 56  :  PASS
+Combined Deck and Discard for Player 3 331  :  Expected 331  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 54, Current player is 1
+handCount for Player 0 20  :  Expected 20  :  PASS
+Combined Deck and Discard for Player 0 84  :  Expected 84  :  PASS
+handCount for Player 1 34  :  Expected 19  :  FAIL
+Combined Deck and Discard for Player 1 252  :  Expected 266  :  FAIL
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 56  :  Expected 56  :  PASS
+Combined Deck and Discard for Player 3 331  :  Expected 331  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 55, Current player is 3
+handCount for Player 0 20  :  Expected 20  :  PASS
+Combined Deck and Discard for Player 0 84  :  Expected 84  :  PASS
+handCount for Player 1 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 1 268  :  Expected 268  :  PASS
+handCount for Player 2 113  :  Expected 113  :  PASS
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+handCount for Player 3 79  :  Expected 34  :  FAIL
+Combined Deck and Discard for Player 3 375  :  Expected 419  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 56, Current player is 2
+handCount for Player 0 20  :  Expected 20  :  PASS
+Combined Deck and Discard for Player 0 84  :  Expected 84  :  PASS
+handCount for Player 1 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 1 268  :  Expected 268  :  PASS
+handCount for Player 2 223  :  Expected 213  :  FAIL
+Combined Deck and Discard for Player 2 108  :  Expected 117  :  FAIL
+handCount for Player 3 33  :  Expected 33  :  PASS
+Combined Deck and Discard for Player 3 421  :  Expected 421  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 57, Current player is 1
+handCount for Player 0 20  :  Expected 20  :  PASS
+Combined Deck and Discard for Player 0 84  :  Expected 84  :  PASS
+handCount for Player 1 30  :  Expected 22  :  FAIL
+Combined Deck and Discard for Player 1 247  :  Expected 254  :  FAIL
+handCount for Player 2 212  :  Expected 212  :  PASS
+Combined Deck and Discard for Player 2 119  :  Expected 119  :  PASS
+handCount for Player 3 33  :  Expected 33  :  PASS
+Combined Deck and Discard for Player 3 421  :  Expected 421  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 58, Current player is 0
+handCount for Player 0 343  :  Expected 331  :  FAIL
+Combined Deck and Discard for Player 0 131  :  Expected 142  :  FAIL
+handCount for Player 1 21  :  Expected 21  :  PASS
+Combined Deck and Discard for Player 1 256  :  Expected 256  :  PASS
+handCount for Player 2 212  :  Expected 212  :  PASS
+Combined Deck and Discard for Player 2 119  :  Expected 119  :  PASS
+handCount for Player 3 33  :  Expected 33  :  PASS
+Combined Deck and Discard for Player 3 421  :  Expected 421  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 59, Current player is 1
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 257  :  Expected 220  :  FAIL
+Combined Deck and Discard for Player 1 194  :  Expected 230  :  FAIL
+handCount for Player 2 212  :  Expected 212  :  PASS
+Combined Deck and Discard for Player 2 119  :  Expected 119  :  PASS
+handCount for Player 3 33  :  Expected 33  :  PASS
+Combined Deck and Discard for Player 3 421  :  Expected 421  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 60, Current player is 3
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 219  :  Expected 219  :  PASS
+Combined Deck and Discard for Player 1 232  :  Expected 232  :  PASS
+handCount for Player 2 212  :  Expected 212  :  PASS
+Combined Deck and Discard for Player 2 119  :  Expected 119  :  PASS
+handCount for Player 3 207  :  Expected 199  :  FAIL
+Combined Deck and Discard for Player 3 250  :  Expected 257  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 61, Current player is 3
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 219  :  Expected 219  :  PASS
+Combined Deck and Discard for Player 1 232  :  Expected 232  :  PASS
+handCount for Player 2 212  :  Expected 212  :  PASS
+Combined Deck and Discard for Player 2 119  :  Expected 119  :  PASS
+handCount for Player 3 68  :  Expected 24  :  FAIL
+Combined Deck and Discard for Player 3 300  :  Expected 343  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 62, Current player is 1
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 54  :  Expected 47  :  FAIL
+Combined Deck and Discard for Player 1 442  :  Expected 448  :  FAIL
+handCount for Player 2 212  :  Expected 212  :  PASS
+Combined Deck and Discard for Player 2 119  :  Expected 119  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 63, Current player is 2
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 46  :  Expected 46  :  PASS
+Combined Deck and Discard for Player 1 450  :  Expected 450  :  PASS
+handCount for Player 2 186  :  Expected 152  :  FAIL
+Combined Deck and Discard for Player 2 230  :  Expected 263  :  FAIL
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 64, Current player is 2
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 46  :  Expected 46  :  PASS
+Combined Deck and Discard for Player 1 450  :  Expected 450  :  PASS
+handCount for Player 2 63  :  Expected 51  :  FAIL
+Combined Deck and Discard for Player 2 178  :  Expected 189  :  FAIL
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 65, Current player is 1
+handCount for Player 0 330  :  Expected 330  :  PASS
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+handCount for Player 1 317  :  Expected 291  :  FAIL
+Combined Deck and Discard for Player 1 173  :  Expected 198  :  FAIL
+handCount for Player 2 50  :  Expected 50  :  PASS
+Combined Deck and Discard for Player 2 191  :  Expected 191  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 66, Current player is 0
+handCount for Player 0 330  :  Expected 312  :  FAIL
+Combined Deck and Discard for Player 0 43  :  Expected 60  :  FAIL
+handCount for Player 1 290  :  Expected 290  :  PASS
+Combined Deck and Discard for Player 1 200  :  Expected 200  :  PASS
+handCount for Player 2 50  :  Expected 50  :  PASS
+Combined Deck and Discard for Player 2 191  :  Expected 191  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 67, Current player is 0
+handCount for Player 0 31  :  Expected 23  :  FAIL
+Combined Deck and Discard for Player 0 286  :  Expected 293  :  FAIL
+handCount for Player 1 290  :  Expected 290  :  PASS
+Combined Deck and Discard for Player 1 200  :  Expected 200  :  PASS
+handCount for Player 2 50  :  Expected 50  :  PASS
+Combined Deck and Discard for Player 2 191  :  Expected 191  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 68, Current player is 2
+handCount for Player 0 22  :  Expected 22  :  PASS
+Combined Deck and Discard for Player 0 295  :  Expected 295  :  PASS
+handCount for Player 1 290  :  Expected 290  :  PASS
+Combined Deck and Discard for Player 1 200  :  Expected 200  :  PASS
+handCount for Player 2 243  :  Expected 237  :  FAIL
+Combined Deck and Discard for Player 2 253  :  Expected 258  :  FAIL
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 69, Current player is 1
+handCount for Player 0 22  :  Expected 22  :  PASS
+Combined Deck and Discard for Player 0 295  :  Expected 295  :  PASS
+handCount for Player 1 375  :  Expected 358  :  FAIL
+Combined Deck and Discard for Player 1 116  :  Expected 132  :  FAIL
+handCount for Player 2 236  :  Expected 236  :  PASS
+Combined Deck and Discard for Player 2 260  :  Expected 260  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 70, Current player is 0
+handCount for Player 0 14  :  Expected 2  :  FAIL
+Combined Deck and Discard for Player 0 428  :  Expected 439  :  FAIL
+handCount for Player 1 357  :  Expected 357  :  PASS
+Combined Deck and Discard for Player 1 134  :  Expected 134  :  PASS
+handCount for Player 2 236  :  Expected 236  :  PASS
+Combined Deck and Discard for Player 2 260  :  Expected 260  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 71, Current player is 0
+handCount for Player 0 34  :  Expected 19  :  FAIL
+Combined Deck and Discard for Player 0 403  :  Expected 417  :  FAIL
+handCount for Player 1 357  :  Expected 357  :  PASS
+Combined Deck and Discard for Player 1 134  :  Expected 134  :  PASS
+handCount for Player 2 236  :  Expected 236  :  PASS
+Combined Deck and Discard for Player 2 260  :  Expected 260  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 72, Current player is 2
+handCount for Player 0 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 0 419  :  Expected 419  :  PASS
+handCount for Player 1 357  :  Expected 357  :  PASS
+Combined Deck and Discard for Player 1 134  :  Expected 134  :  PASS
+handCount for Player 2 72  :  Expected 65  :  FAIL
+Combined Deck and Discard for Player 2 104  :  Expected 110  :  FAIL
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 73, Current player is 2
+handCount for Player 0 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 0 419  :  Expected 419  :  PASS
+handCount for Player 1 357  :  Expected 357  :  PASS
+Combined Deck and Discard for Player 1 134  :  Expected 134  :  PASS
+handCount for Player 2 54  :  Expected 31  :  FAIL
+Combined Deck and Discard for Player 2 414  :  Expected 436  :  FAIL
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 74, Current player is 1
+handCount for Player 0 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 0 419  :  Expected 419  :  PASS
+handCount for Player 1 158  :  Expected 154  :  FAIL
+Combined Deck and Discard for Player 1 209  :  Expected 212  :  FAIL
+handCount for Player 2 30  :  Expected 30  :  PASS
+Combined Deck and Discard for Player 2 438  :  Expected 438  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 75, Current player is 2
+handCount for Player 0 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 0 419  :  Expected 419  :  PASS
+handCount for Player 1 153  :  Expected 153  :  PASS
+Combined Deck and Discard for Player 1 214  :  Expected 214  :  PASS
+handCount for Player 2 172  :  Expected 164  :  FAIL
+Combined Deck and Discard for Player 2 233  :  Expected 240  :  FAIL
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 76, Current player is 1
+handCount for Player 0 18  :  Expected 18  :  PASS
+Combined Deck and Discard for Player 0 419  :  Expected 419  :  PASS
+handCount for Player 1 89  :  Expected 49  :  FAIL
+Combined Deck and Discard for Player 1 225  :  Expected 264  :  FAIL
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 77, Current player is 0
+
+Test 78, Current player is 0
+handCount for Player 0 161  :  Expected 151  :  FAIL
+Combined Deck and Discard for Player 0 11  :  Expected 20  :  FAIL
+handCount for Player 1 48  :  Expected 48  :  PASS
+Combined Deck and Discard for Player 1 266  :  Expected 266  :  PASS
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 79, Current player is 0
+handCount for Player 0 459  :  Expected 428  :  FAIL
+Combined Deck and Discard for Player 0 25  :  Expected 55  :  FAIL
+handCount for Player 1 48  :  Expected 48  :  PASS
+Combined Deck and Discard for Player 1 266  :  Expected 266  :  PASS
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 80, Current player is 1
+handCount for Player 0 427  :  Expected 427  :  PASS
+Combined Deck and Discard for Player 0 57  :  Expected 57  :  PASS
+handCount for Player 1 132  :  Expected 125  :  FAIL
+Combined Deck and Discard for Player 1 234  :  Expected 240  :  FAIL
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 81, Current player is 0
+handCount for Player 0 35  :  Expected 31  :  FAIL
+Combined Deck and Discard for Player 0 415  :  Expected 418  :  FAIL
+handCount for Player 1 124  :  Expected 124  :  PASS
+Combined Deck and Discard for Player 1 242  :  Expected 242  :  PASS
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 3 345  :  Expected 345  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 82, Current player is 3
+handCount for Player 0 30  :  Expected 30  :  PASS
+Combined Deck and Discard for Player 0 420  :  Expected 420  :  PASS
+handCount for Player 1 124  :  Expected 124  :  PASS
+Combined Deck and Discard for Player 1 242  :  Expected 242  :  PASS
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 39  :  Expected 35  :  FAIL
+Combined Deck and Discard for Player 3 191  :  Expected 194  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 83, Current player is 0
+handCount for Player 0 105  :  Expected 88  :  FAIL
+Combined Deck and Discard for Player 0 99  :  Expected 115  :  FAIL
+handCount for Player 1 124  :  Expected 124  :  PASS
+Combined Deck and Discard for Player 1 242  :  Expected 242  :  PASS
+handCount for Player 2 163  :  Expected 163  :  PASS
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+handCount for Player 3 34  :  Expected 34  :  PASS
+Combined Deck and Discard for Player 3 196  :  Expected 196  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 84, Current player is 2
+handCount for Player 0 87  :  Expected 87  :  PASS
+Combined Deck and Discard for Player 0 117  :  Expected 117  :  PASS
+handCount for Player 1 124  :  Expected 124  :  PASS
+Combined Deck and Discard for Player 1 242  :  Expected 242  :  PASS
+handCount for Player 2 14  :  Expected 11  :  FAIL
+Combined Deck and Discard for Player 2 436  :  Expected 438  :  FAIL
+handCount for Player 3 34  :  Expected 34  :  PASS
+Combined Deck and Discard for Player 3 196  :  Expected 196  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 85, Current player is 0
+handCount for Player 0 148  :  Expected 144  :  FAIL
+Combined Deck and Discard for Player 0 143  :  Expected 146  :  FAIL
+handCount for Player 1 124  :  Expected 124  :  PASS
+Combined Deck and Discard for Player 1 242  :  Expected 242  :  PASS
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 34  :  Expected 34  :  PASS
+Combined Deck and Discard for Player 3 196  :  Expected 196  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 86, Current player is 1
+handCount for Player 0 143  :  Expected 143  :  PASS
+Combined Deck and Discard for Player 0 148  :  Expected 148  :  PASS
+handCount for Player 1 113  :  Expected 104  :  FAIL
+Combined Deck and Discard for Player 1 281  :  Expected 289  :  FAIL
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 34  :  Expected 34  :  PASS
+Combined Deck and Discard for Player 3 196  :  Expected 196  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 87, Current player is 1
+handCount for Player 0 143  :  Expected 143  :  PASS
+Combined Deck and Discard for Player 0 148  :  Expected 148  :  PASS
+handCount for Player 1 123  :  Expected 116  :  FAIL
+Combined Deck and Discard for Player 1 191  :  Expected 197  :  FAIL
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 34  :  Expected 34  :  PASS
+Combined Deck and Discard for Player 3 196  :  Expected 196  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 88, Current player is 3
+handCount for Player 0 143  :  Expected 143  :  PASS
+Combined Deck and Discard for Player 0 148  :  Expected 148  :  PASS
+handCount for Player 1 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 1 199  :  Expected 199  :  PASS
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 291  :  Expected 254  :  FAIL
+Combined Deck and Discard for Player 3 156  :  Expected 192  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 89, Current player is 0
+handCount for Player 0 61  :  Expected 43  :  FAIL
+Combined Deck and Discard for Player 0 193  :  Expected 210  :  FAIL
+handCount for Player 1 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 1 199  :  Expected 199  :  PASS
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 253  :  Expected 253  :  PASS
+Combined Deck and Discard for Player 3 194  :  Expected 194  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 90, Current player is 1
+handCount for Player 0 42  :  Expected 42  :  PASS
+Combined Deck and Discard for Player 0 212  :  Expected 212  :  PASS
+handCount for Player 1 150  :  Expected 122  :  FAIL
+Combined Deck and Discard for Player 1 247  :  Expected 274  :  FAIL
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 253  :  Expected 253  :  PASS
+Combined Deck and Discard for Player 3 194  :  Expected 194  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 91, Current player is 3
+handCount for Player 0 42  :  Expected 42  :  PASS
+Combined Deck and Discard for Player 0 212  :  Expected 212  :  PASS
+handCount for Player 1 121  :  Expected 121  :  PASS
+Combined Deck and Discard for Player 1 276  :  Expected 276  :  PASS
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 108  :  Expected 100  :  FAIL
+Combined Deck and Discard for Player 3 215  :  Expected 222  :  FAIL
+All supplyCounts unchanged.  PASS
+
+Test 92, Current player is 0
+handCount for Player 0 329  :  Expected 315  :  FAIL
+Combined Deck and Discard for Player 0 165  :  Expected 178  :  FAIL
+handCount for Player 1 121  :  Expected 121  :  PASS
+Combined Deck and Discard for Player 1 276  :  Expected 276  :  PASS
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 93, Current player is 0
+handCount for Player 0 18  :  Expected 12  :  FAIL
+Combined Deck and Discard for Player 0 164  :  Expected 169  :  FAIL
+handCount for Player 1 121  :  Expected 121  :  PASS
+Combined Deck and Discard for Player 1 276  :  Expected 276  :  PASS
+handCount for Player 2 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 2 440  :  Expected 440  :  PASS
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 94, Current player is 2
+handCount for Player 0 11  :  Expected 11  :  PASS
+Combined Deck and Discard for Player 0 171  :  Expected 171  :  PASS
+handCount for Player 1 121  :  Expected 121  :  PASS
+Combined Deck and Discard for Player 1 276  :  Expected 276  :  PASS
+handCount for Player 2 100  :  Expected 90  :  FAIL
+Combined Deck and Discard for Player 2 387  :  Expected 396  :  FAIL
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 95, Current player is 1
+handCount for Player 0 11  :  Expected 11  :  PASS
+Combined Deck and Discard for Player 0 171  :  Expected 171  :  PASS
+handCount for Player 1 59  :  Expected 44  :  FAIL
+Combined Deck and Discard for Player 1 166  :  Expected 180  :  FAIL
+handCount for Player 2 89  :  Expected 89  :  PASS
+Combined Deck and Discard for Player 2 398  :  Expected 398  :  PASS
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 96, Current player is 2
+handCount for Player 0 11  :  Expected 11  :  PASS
+Combined Deck and Discard for Player 0 171  :  Expected 171  :  PASS
+handCount for Player 1 43  :  Expected 43  :  PASS
+Combined Deck and Discard for Player 1 182  :  Expected 182  :  PASS
+handCount for Player 2 106  :  Expected 92  :  FAIL
+Combined Deck and Discard for Player 2 279  :  Expected 292  :  FAIL
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 97, Current player is 0
+handCount for Player 0 192  :  Expected 173  :  FAIL
+Combined Deck and Discard for Player 0 255  :  Expected 273  :  FAIL
+handCount for Player 1 43  :  Expected 43  :  PASS
+Combined Deck and Discard for Player 1 182  :  Expected 182  :  PASS
+handCount for Player 2 91  :  Expected 91  :  PASS
+Combined Deck and Discard for Player 2 294  :  Expected 294  :  PASS
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 98, Current player is 0
+handCount for Player 0 116  :  Expected 103  :  FAIL
+Combined Deck and Discard for Player 0 181  :  Expected 193  :  FAIL
+handCount for Player 1 43  :  Expected 43  :  PASS
+Combined Deck and Discard for Player 1 182  :  Expected 182  :  PASS
+handCount for Player 2 91  :  Expected 91  :  PASS
+Combined Deck and Discard for Player 2 294  :  Expected 294  :  PASS
+handCount for Player 3 99  :  Expected 99  :  PASS
+Combined Deck and Discard for Player 3 224  :  Expected 224  :  PASS
+All supplyCounts unchanged.  PASS
+
+Test 99, Current player is 3
+handCount for Player 0 102  :  Expected 102  :  PASS
+Combined Deck and Discard for Player 0 195  :  Expected 195  :  PASS
+handCount for Player 1 43  :  Expected 43  :  PASS
+Combined Deck and Discard for Player 1 182  :  Expected 182  :  PASS
+handCount for Player 2 91  :  Expected 91  :  PASS
+Combined Deck and Discard for Player 2 294  :  Expected 294  :  PASS
+handCount for Player 3 104  :  Expected 69  :  FAIL
+Combined Deck and Discard for Player 3 389  :  Expected 423  :  FAIL
+All supplyCounts unchanged.  PASS
+
+ >>>>>>>>>> Testing Adventurer Complete <<<<<<<<<<
+
+File 'dominion.c'
+Lines executed:22.82% of 561
+Branches executed:25.66% of 417
+Taken at least once:17.75% of 417
+Calls executed:12.63% of 95
+Creating 'dominion.c.gcov'
+
+        -:    0:Source:dominion.c
+        -:    0:Graph:dominion.gcno
+        -:    0:Data:dominion.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:#include <stdio.h>
+        -:    5:#include <math.h>
+        -:    6:#include <stdlib.h>
+        -:    7:
+        -:    8:
+        -:    9:/*function declarations for card effects that have been refactored
+        -:   10:/ from cardEffects function*/
+        -:   11:void smi(struct gameState *state, int handPos, int currentPlayer);
+        -:   12:void vil(struct gameState *state, int handPos, int currentPlayer);
+        -:   13:void adv(struct gameState *state, int handPos, int currentPlayer, int z, int temphand[], int drawntreasure, int cardDrawn);
+        -:   14:void cou(struct gameState *state, int handPos, int currentPlayer);
+        -:   15:void sea(struct gameState *state, int handPos, int currentPlayer);
+        -:   16:
+function compare called 609 returned 100% blocks executed 100%
+      609:   17:int compare(const void* a, const void* b) {
+      609:   18:  if (*(int*)a > *(int*)b)
+branch  0 taken 280 (fallthrough)
+branch  1 taken 329
+      280:   19:    return 1;
+      329:   20:  if (*(int*)a < *(int*)b)
+branch  0 taken 177 (fallthrough)
+branch  1 taken 152
+      177:   21:    return -1;
+      152:   22:  return 0;
+        -:   23:}
+        -:   24:
+function newGame called 0 returned 0% blocks executed 0%
+    #####:   25:struct gameState* newGame() {
+    #####:   26:  struct gameState* g = malloc(sizeof(struct gameState));
+    #####:   27:  return g;
+        -:   28:}
+        -:   29:
+function kingdomCards called 0 returned 0% blocks executed 0%
+    #####:   30:int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
+        -:   31:		  int k8, int k9, int k10) {
+    #####:   32:  int* k = malloc(10 * sizeof(int));
+    #####:   33:  k[0] = k1;
+    #####:   34:  k[1] = k2;
+    #####:   35:  k[2] = k3;
+    #####:   36:  k[3] = k4;
+    #####:   37:  k[4] = k5;
+    #####:   38:  k[5] = k6;
+    #####:   39:  k[6] = k7;
+    #####:   40:  k[7] = k8;
+    #####:   41:  k[8] = k9;
+    #####:   42:  k[9] = k10;
+    #####:   43:  return k;
+        -:   44:}
+        -:   45:
+function initializeGame called 1 returned 100% blocks executed 89%
+        1:   46:int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
+        -:   47:		   struct gameState *state) {
+        -:   48:
+        -:   49:  int i;
+        -:   50:  int j;
+        -:   51:  int it;
+        -:   52:  //set up random number generator
+        1:   53:  SelectStream(1);
+call    0 returned 1
+        1:   54:  PutSeed((long)randomSeed);
+call    0 returned 1
+        -:   55:
+        -:   56:  //check number of players
+        1:   57:  if (numPlayers > MAX_PLAYERS || numPlayers < 2)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 0
+branch  2 taken 0 (fallthrough)
+branch  3 taken 1
+        -:   58:    {
+    #####:   59:      return -1;
+        -:   60:    }
+        -:   61:
+        -:   62:  //set number of players
+        1:   63:  state->numPlayers = numPlayers;
+        -:   64:
+        -:   65:  //check selected kingdom cards are different
+       11:   66:  for (i = 0; i < 10; i++)
+branch  0 taken 10
+branch  1 taken 1 (fallthrough)
+        -:   67:    {
+      110:   68:      for (j = 0; j < 10; j++)
+branch  0 taken 100
+branch  1 taken 10 (fallthrough)
+        -:   69:        {
+      100:   70:	  if (j != i && kingdomCards[j] == kingdomCards[i])
+branch  0 taken 90 (fallthrough)
+branch  1 taken 10
+branch  2 taken 0 (fallthrough)
+branch  3 taken 90
+        -:   71:	    {
+    #####:   72:	      return -1;
+        -:   73:	    }
+        -:   74:        }
+        -:   75:    }
+        -:   76:
+        -:   77:
+        -:   78:  //initialize supply
+        -:   79:  ///////////////////////////////
+        -:   80:
+        -:   81:  //set number of Curse cards
+        1:   82:  if (numPlayers == 2)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1
+        -:   83:    {
+    #####:   84:      state->supplyCount[curse] = 10;
+        -:   85:    }
+        1:   86:  else if (numPlayers == 3)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1
+        -:   87:    {
+    #####:   88:      state->supplyCount[curse] = 20;
+        -:   89:    }
+        -:   90:  else
+        -:   91:    {
+        1:   92:      state->supplyCount[curse] = 30;
+        -:   93:    }
+        -:   94:
+        -:   95:  //set number of Victory cards
+        1:   96:  if (numPlayers == 2)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1
+        -:   97:    {
+    #####:   98:      state->supplyCount[estate] = 8;
+    #####:   99:      state->supplyCount[duchy] = 8;
+    #####:  100:      state->supplyCount[province] = 8;
+        -:  101:    }
+        -:  102:  else
+        -:  103:    {
+        1:  104:      state->supplyCount[estate] = 12;
+        1:  105:      state->supplyCount[duchy] = 12;
+        1:  106:      state->supplyCount[province] = 12;
+        -:  107:    }
+        -:  108:
+        -:  109:  //set number of Treasure cards
+        1:  110:  state->supplyCount[copper] = 60 - (7 * numPlayers);
+        1:  111:  state->supplyCount[silver] = 40;
+        1:  112:  state->supplyCount[gold] = 30;
+        -:  113:
+        -:  114:  //set number of Kingdom cards
+       21:  115:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
+branch  0 taken 20
+branch  1 taken 1 (fallthrough)
+        -:  116:    {
+      165:  117:      for (j = 0; j < 10; j++)           		//loop chosen cards
+branch  0 taken 155
+branch  1 taken 10 (fallthrough)
+        -:  118:	{
+      155:  119:	  if (kingdomCards[j] == i)
+branch  0 taken 10 (fallthrough)
+branch  1 taken 145
+        -:  120:	    {
+        -:  121:	      //check if card is a 'Victory' Kingdom card
+       10:  122:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
+branch  0 taken 10 (fallthrough)
+branch  1 taken 0
+branch  2 taken 1 (fallthrough)
+branch  3 taken 9
+        -:  123:		{
+        2:  124:		  if (numPlayers == 2){
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1
+    #####:  125:		    state->supplyCount[i] = 8;
+        -:  126:		  }
+        1:  127:		  else{ state->supplyCount[i] = 12; }
+        -:  128:		}
+        -:  129:	      else
+        -:  130:		{
+        9:  131:		  state->supplyCount[i] = 10;
+        -:  132:		}
+       10:  133:	      break;
+        -:  134:	    }
+        -:  135:	  else    //card is not in the set choosen for the game
+        -:  136:	    {
+      145:  137:	      state->supplyCount[i] = -1;
+        -:  138:	    }
+        -:  139:	}
+        -:  140:
+        -:  141:    }
+        -:  142:
+        -:  143:  ////////////////////////
+        -:  144:  //supply intilization complete
+        -:  145:
+        -:  146:  //set player decks
+        5:  147:  for (i = 0; i < numPlayers; i++)
+branch  0 taken 4
+branch  1 taken 1 (fallthrough)
+        -:  148:    {
+        4:  149:      state->deckCount[i] = 0;
+       16:  150:      for (j = 0; j < 3; j++)
+branch  0 taken 12
+branch  1 taken 4 (fallthrough)
+        -:  151:	{
+       12:  152:	  state->deck[i][j] = estate;
+       12:  153:	  state->deckCount[i]++;
+        -:  154:	}
+       32:  155:      for (j = 3; j < 10; j++)
+branch  0 taken 28
+branch  1 taken 4 (fallthrough)
+        -:  156:	{
+       28:  157:	  state->deck[i][j] = copper;
+       28:  158:	  state->deckCount[i]++;
+        -:  159:	}
+        -:  160:    }
+        -:  161:
+        -:  162:  //shuffle player decks
+        5:  163:  for (i = 0; i < numPlayers; i++)
+branch  0 taken 4
+branch  1 taken 1 (fallthrough)
+        -:  164:    {
+        4:  165:      if ( shuffle(i, state) < 0 )
+call    0 returned 4
+branch  1 taken 0 (fallthrough)
+branch  2 taken 4
+        -:  166:	{
+    #####:  167:	  return -1;
+        -:  168:	}
+        -:  169:    }
+        -:  170:
+        -:  171:  //draw player hands
+        5:  172:  for (i = 0; i < numPlayers; i++)
+branch  0 taken 4
+branch  1 taken 1 (fallthrough)
+        -:  173:    {
+        -:  174:      //initialize hand size to zero
+        4:  175:      state->handCount[i] = 0;
+        4:  176:      state->discardCount[i] = 0;
+        -:  177:      //draw 5 cards
+        -:  178:      // for (j = 0; j < 5; j++)
+        -:  179:      //	{
+        -:  180:      //	  drawCard(i, state);
+        -:  181:      //	}
+        -:  182:    }
+        -:  183:
+        -:  184:  //set embargo tokens to 0 for all supply piles
+       28:  185:  for (i = 0; i <= treasure_map; i++)
+branch  0 taken 27
+branch  1 taken 1 (fallthrough)
+        -:  186:    {
+       27:  187:      state->embargoTokens[i] = 0;
+        -:  188:    }
+        -:  189:
+        -:  190:  //initialize first player's turn
+        1:  191:  state->outpostPlayed = 0;
+        1:  192:  state->phase = 0;
+        1:  193:  state->numActions = 1;
+        1:  194:  state->numBuys = 1;
+        1:  195:  state->playedCardCount = 0;
+        1:  196:  state->whoseTurn = 0;
+        1:  197:  state->handCount[state->whoseTurn] = 0;
+        -:  198:  //int it; move to top
+        -:  199:
+        -:  200:  //Moved draw cards to here, only drawing at the start of a turn
+        6:  201:  for (it = 0; it < 5; it++){
+branch  0 taken 5
+branch  1 taken 1 (fallthrough)
+        5:  202:    drawCard(state->whoseTurn, state);
+call    0 returned 5
+        -:  203:  }
+        -:  204:
+        1:  205:  updateCoins(state->whoseTurn, state, 0);
+call    0 returned 1
+        -:  206:
+        1:  207:  return 0;
+        -:  208:}
+        -:  209:
+function shuffle called 6 returned 100% blocks executed 100%
+        6:  210:int shuffle(int player, struct gameState *state) {
+        -:  211:
+        -:  212:
+        -:  213:  int newDeck[MAX_DECK];
+        6:  214:  int newDeckPos = 0;
+        -:  215:  int card;
+        -:  216:  int i;
+        -:  217:
+        6:  218:  if (state->deckCount[player] < 1)
+branch  0 taken 1 (fallthrough)
+branch  1 taken 5
+        1:  219:    return -1;
+        5:  220:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare);
+call    0 returned 5
+        -:  221:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
+        -:  222:
+      150:  223:  while (state->deckCount[player] > 0) {
+branch  0 taken 140
+branch  1 taken 5 (fallthrough)
+      140:  224:    card = floor(Random() * state->deckCount[player]);
+call    0 returned 140
+      140:  225:    newDeck[newDeckPos] = state->deck[player][card];
+      140:  226:    newDeckPos++;
+     2841:  227:    for (i = card; i < state->deckCount[player]-1; i++) {
+branch  0 taken 2701
+branch  1 taken 140 (fallthrough)
+     2701:  228:      state->deck[player][i] = state->deck[player][i+1];
+        -:  229:    }
+      140:  230:    state->deckCount[player]--;
+        -:  231:  }
+      145:  232:  for (i = 0; i < newDeckPos; i++) {
+branch  0 taken 140
+branch  1 taken 5 (fallthrough)
+      140:  233:    state->deck[player][i] = newDeck[i];
+      140:  234:    state->deckCount[player]++;
+        -:  235:  }
+        -:  236:
+        5:  237:  return 0;
+        -:  238:}
+        -:  239:
+function playCard called 0 returned 0% blocks executed 0%
+    #####:  240:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state)
+        -:  241:{
+        -:  242:  int card;
+    #####:  243:  int coin_bonus = 0; 		//tracks coins gain from actions
+        -:  244:
+        -:  245:  //check if it is the right phase
+    #####:  246:  if (state->phase != 0)
+branch  0 never executed
+branch  1 never executed
+        -:  247:    {
+    #####:  248:      return -1;
+        -:  249:    }
+        -:  250:
+        -:  251:  //check if player has enough actions
+    #####:  252:  if ( state->numActions < 1 )
+branch  0 never executed
+branch  1 never executed
+        -:  253:    {
+    #####:  254:      return -1;
+        -:  255:    }
+        -:  256:
+        -:  257:  //get card played
+    #####:  258:  card = handCard(handPos, state);
+call    0 never executed
+        -:  259:
+        -:  260:  //check if selected card is an action
+    #####:  261:  if ( card < adventurer || card > treasure_map )
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+        -:  262:    {
+    #####:  263:      return -1;
+        -:  264:    }
+        -:  265:
+        -:  266:  //play card
+    #####:  267:  if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+        -:  268:    {
+    #####:  269:      return -1;
+        -:  270:    }
+        -:  271:
+        -:  272:  //reduce number of actions
+    #####:  273:  state->numActions--;
+        -:  274:
+        -:  275:  //update coins (Treasure cards may be added with card draws)
+    #####:  276:  updateCoins(state->whoseTurn, state, coin_bonus);
+call    0 never executed
+        -:  277:
+    #####:  278:  return 0;
+        -:  279:}
+        -:  280:
+function buyCard called 0 returned 0% blocks executed 0%
+    #####:  281:int buyCard(int supplyPos, struct gameState *state) {
+        -:  282:  int who;
+        -:  283:  if (DEBUG){
+        -:  284:    printf("Entering buyCard...\n");
+        -:  285:  }
+        -:  286:
+        -:  287:  // I don't know what to do about the phase thing.
+        -:  288:
+    #####:  289:  who = state->whoseTurn;
+        -:  290:
+    #####:  291:  if (state->numBuys < 1){
+branch  0 never executed
+branch  1 never executed
+        -:  292:    if (DEBUG)
+        -:  293:      printf("You do not have any buys left\n");
+    #####:  294:    return -1;
+    #####:  295:  } else if (supplyCount(supplyPos, state) <1){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+        -:  296:    if (DEBUG)
+        -:  297:      printf("There are not any of that type of card left\n");
+    #####:  298:    return -1;
+    #####:  299:  } else if (state->coins < getCost(supplyPos)){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+        -:  300:    if (DEBUG)
+        -:  301:      printf("You do not have enough money to buy that. You have %d coins.\n", state->coins);
+    #####:  302:    return -1;
+        -:  303:  } else {
+    #####:  304:    state->phase=1;
+        -:  305:    //state->supplyCount[supplyPos]--;
+    #####:  306:    gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
+call    0 never executed
+        -:  307:
+    #####:  308:    state->coins = (state->coins) - (getCost(supplyPos));
+call    0 never executed
+    #####:  309:    state->numBuys--;
+        -:  310:    if (DEBUG)
+        -:  311:      printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
+        -:  312:  }
+        -:  313:
+        -:  314:  //state->discard[who][state->discardCount[who]] = supplyPos;
+        -:  315:  //state->discardCount[who]++;
+        -:  316:
+    #####:  317:  return 0;
+        -:  318:}
+        -:  319:
+function numHandCards called 0 returned 0% blocks executed 0%
+    #####:  320:int numHandCards(struct gameState *state) {
+    #####:  321:  return state->handCount[ whoseTurn(state) ];
+call    0 never executed
+        -:  322:}
+        -:  323:
+function handCard called 0 returned 0% blocks executed 0%
+    #####:  324:int handCard(int handPos, struct gameState *state) {
+    #####:  325:  int currentPlayer = whoseTurn(state);
+call    0 never executed
+    #####:  326:  return state->hand[currentPlayer][handPos];
+        -:  327:}
+        -:  328:
+function supplyCount called 0 returned 0% blocks executed 0%
+    #####:  329:int supplyCount(int card, struct gameState *state) {
+    #####:  330:  return state->supplyCount[card];
+        -:  331:}
+        -:  332:
+function fullDeckCount called 0 returned 0% blocks executed 0%
+    #####:  333:int fullDeckCount(int player, int card, struct gameState *state) {
+        -:  334:  int i;
+    #####:  335:  int count = 0;
+        -:  336:
+    #####:  337:  for (i = 0; i < state->deckCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  338:    {
+    #####:  339:      if (state->deck[player][i] == card) count++;
+branch  0 never executed
+branch  1 never executed
+        -:  340:    }
+        -:  341:
+    #####:  342:  for (i = 0; i < state->handCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  343:    {
+    #####:  344:      if (state->hand[player][i] == card) count++;
+branch  0 never executed
+branch  1 never executed
+        -:  345:    }
+        -:  346:
+    #####:  347:  for (i = 0; i < state->discardCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  348:    {
+    #####:  349:      if (state->discard[player][i] == card) count++;
+branch  0 never executed
+branch  1 never executed
+        -:  350:    }
+        -:  351:
+    #####:  352:  return count;
+        -:  353:}
+        -:  354:
+function whoseTurn called 98 returned 100% blocks executed 100%
+       98:  355:int whoseTurn(struct gameState *state) {
+       98:  356:  return state->whoseTurn;
+        -:  357:}
+        -:  358:
+function endTurn called 0 returned 0% blocks executed 0%
+    #####:  359:int endTurn(struct gameState *state) {
+        -:  360:  int k;
+        -:  361:  int i;
+    #####:  362:  int currentPlayer = whoseTurn(state);
+call    0 never executed
+        -:  363:
+        -:  364:  //Discard hand
+    #####:  365:  for (i = 0; i < state->handCount[currentPlayer]; i++){
+branch  0 never executed
+branch  1 never executed
+    #####:  366:    state->discard[currentPlayer][state->discardCount[currentPlayer]++] = state->hand[currentPlayer][i];//Discard
+    #####:  367:    state->hand[currentPlayer][i] = -1;//Set card to -1
+        -:  368:  }
+    #####:  369:  state->handCount[currentPlayer] = 0;//Reset hand count
+        -:  370:
+        -:  371:  //Code for determining the player
+    #####:  372:  if (currentPlayer < (state->numPlayers - 1)){
+branch  0 never executed
+branch  1 never executed
+    #####:  373:    state->whoseTurn = currentPlayer + 1;//Still safe to increment
+        -:  374:  }
+        -:  375:  else{
+    #####:  376:    state->whoseTurn = 0;//Max player has been reached, loop back around to player 1
+        -:  377:  }
+        -:  378:
+    #####:  379:  state->outpostPlayed = 0;
+    #####:  380:  state->phase = 0;
+    #####:  381:  state->numActions = 1;
+    #####:  382:  state->coins = 0;
+    #####:  383:  state->numBuys = 1;
+    #####:  384:  state->playedCardCount = 0;
+    #####:  385:  state->handCount[state->whoseTurn] = 0;
+        -:  386:
+        -:  387:  //int k; move to top
+        -:  388:  //Next player draws hand
+    #####:  389:  for (k = 0; k < 5; k++){
+branch  0 never executed
+branch  1 never executed
+    #####:  390:    drawCard(state->whoseTurn, state);//Draw a card
+call    0 never executed
+        -:  391:  }
+        -:  392:
+        -:  393:  //Update money
+    #####:  394:  updateCoins(state->whoseTurn, state , 0);
+call    0 never executed
+        -:  395:
+    #####:  396:  return 0;
+        -:  397:}
+        -:  398:
+function isGameOver called 0 returned 0% blocks executed 0%
+    #####:  399:int isGameOver(struct gameState *state) {
+        -:  400:  int i;
+        -:  401:  int j;
+        -:  402:
+        -:  403:  //if stack of Province cards is empty, the game ends
+    #####:  404:  if (state->supplyCount[province] == 0)
+branch  0 never executed
+branch  1 never executed
+        -:  405:    {
+    #####:  406:      return 1;
+        -:  407:    }
+        -:  408:
+        -:  409:  //if three supply pile are at 0, the game ends
+    #####:  410:  j = 0;
+    #####:  411:  for (i = 0; i < 25; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  412:    {
+    #####:  413:      if (state->supplyCount[i] == 0)
+branch  0 never executed
+branch  1 never executed
+        -:  414:	{
+    #####:  415:	  j++;
+        -:  416:	}
+        -:  417:    }
+    #####:  418:  if ( j >= 3)
+branch  0 never executed
+branch  1 never executed
+        -:  419:    {
+    #####:  420:      return 1;
+        -:  421:    }
+        -:  422:
+    #####:  423:  return 0;
+        -:  424:}
+        -:  425:
+function scoreFor called 0 returned 0% blocks executed 0%
+    #####:  426:int scoreFor (int player, struct gameState *state) {
+        -:  427:
+        -:  428:  int i;
+    #####:  429:  int score = 0;
+        -:  430:  //score from hand
+    #####:  431:  for (i = 0; i < state->handCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  432:    {
+    #####:  433:      if (state->hand[player][i] == curse) { score = score - 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  434:      if (state->hand[player][i] == estate) { score = score + 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  435:      if (state->hand[player][i] == duchy) { score = score + 3; };
+branch  0 never executed
+branch  1 never executed
+    #####:  436:      if (state->hand[player][i] == province) { score = score + 6; };
+branch  0 never executed
+branch  1 never executed
+    #####:  437:      if (state->hand[player][i] == great_hall) { score = score + 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  438:      if (state->hand[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+branch  0 never executed
+branch  1 never executed
+call    2 never executed
+        -:  439:    }
+        -:  440:
+        -:  441:  //score from discard
+    #####:  442:  for (i = 0; i < state->discardCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  443:    {
+    #####:  444:      if (state->discard[player][i] == curse) { score = score - 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  445:      if (state->discard[player][i] == estate) { score = score + 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  446:      if (state->discard[player][i] == duchy) { score = score + 3; };
+branch  0 never executed
+branch  1 never executed
+    #####:  447:      if (state->discard[player][i] == province) { score = score + 6; };
+branch  0 never executed
+branch  1 never executed
+    #####:  448:      if (state->discard[player][i] == great_hall) { score = score + 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  449:      if (state->discard[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+branch  0 never executed
+branch  1 never executed
+call    2 never executed
+        -:  450:    }
+        -:  451:
+        -:  452:  //score from deck
+    #####:  453:  for (i = 0; i < state->discardCount[player]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  454:    {
+    #####:  455:      if (state->deck[player][i] == curse) { score = score - 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  456:      if (state->deck[player][i] == estate) { score = score + 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  457:      if (state->deck[player][i] == duchy) { score = score + 3; };
+branch  0 never executed
+branch  1 never executed
+    #####:  458:      if (state->deck[player][i] == province) { score = score + 6; };
+branch  0 never executed
+branch  1 never executed
+    #####:  459:      if (state->deck[player][i] == great_hall) { score = score + 1; };
+branch  0 never executed
+branch  1 never executed
+    #####:  460:      if (state->deck[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+branch  0 never executed
+branch  1 never executed
+call    2 never executed
+        -:  461:    }
+        -:  462:
+    #####:  463:  return score;
+        -:  464:}
+        -:  465:
+function getWinners called 0 returned 0% blocks executed 0%
+    #####:  466:int getWinners(int players[MAX_PLAYERS], struct gameState *state) {
+        -:  467:  int i;
+        -:  468:  int j;
+        -:  469:  int highScore;
+        -:  470:  int currentPlayer;
+        -:  471:
+        -:  472:  //get score for each player
+    #####:  473:  for (i = 0; i < MAX_PLAYERS; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  474:    {
+        -:  475:      //set unused player scores to -9999
+    #####:  476:      if (i >= state->numPlayers)
+branch  0 never executed
+branch  1 never executed
+        -:  477:	{
+    #####:  478:	  players[i] = -9999;
+        -:  479:	}
+        -:  480:      else
+        -:  481:	{
+    #####:  482:	  players[i] = scoreFor (i, state);
+call    0 never executed
+        -:  483:	}
+        -:  484:    }
+        -:  485:
+        -:  486:  //find highest score
+    #####:  487:  j = 0;
+    #####:  488:  for (i = 0; i < MAX_PLAYERS; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  489:    {
+    #####:  490:      if (players[i] > players[j])
+branch  0 never executed
+branch  1 never executed
+        -:  491:	{
+    #####:  492:	  j = i;
+        -:  493:	}
+        -:  494:    }
+    #####:  495:  highScore = players[j];
+        -:  496:
+        -:  497:  //add 1 to players who had less turns
+    #####:  498:  currentPlayer = whoseTurn(state);
+call    0 never executed
+    #####:  499:  for (i = 0; i < MAX_PLAYERS; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  500:    {
+    #####:  501:      if ( players[i] == highScore && i > currentPlayer )
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+        -:  502:	{
+    #####:  503:	  players[i]++;
+        -:  504:	}
+        -:  505:    }
+        -:  506:
+        -:  507:  //find new highest score
+    #####:  508:  j = 0;
+    #####:  509:  for (i = 0; i < MAX_PLAYERS; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  510:    {
+    #####:  511:      if ( players[i] > players[j] )
+branch  0 never executed
+branch  1 never executed
+        -:  512:	{
+    #####:  513:	  j = i;
+        -:  514:	}
+        -:  515:    }
+    #####:  516:  highScore = players[j];
+        -:  517:
+        -:  518:  //set winners in array to 1 and rest to 0
+    #####:  519:  for (i = 0; i < MAX_PLAYERS; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  520:    {
+    #####:  521:      if ( players[i] == highScore )
+branch  0 never executed
+branch  1 never executed
+        -:  522:	{
+    #####:  523:	  players[i] = 1;
+        -:  524:	}
+        -:  525:      else
+        -:  526:	{
+    #####:  527:	  players[i] = 0;
+        -:  528:	}
+        -:  529:    }
+        -:  530:
+    #####:  531:  return 0;
+        -:  532:}
+        -:  533:
+function drawCard called 1635 returned 100% blocks executed 92%
+     1635:  534:int drawCard(int player, struct gameState *state)
+        -:  535:{	int count;
+        -:  536:  int deckCounter;
+     1635:  537:  if (state->deckCount[player] <= 0){//Deck is empty
+branch  0 taken 1 (fallthrough)
+branch  1 taken 1634
+        -:  538:
+        -:  539:    //Step 1 Shuffle the discard pile back into a deck
+        -:  540:    int i;
+        -:  541:    //Move discard to deck
+      101:  542:    for (i = 0; i < state->discardCount[player];i++){
+branch  0 taken 100
+branch  1 taken 1 (fallthrough)
+      100:  543:      state->deck[player][i] = state->discard[player][i];
+      100:  544:      state->discard[player][i] = -1;
+        -:  545:    }
+        -:  546:
+        1:  547:    state->deckCount[player] = state->discardCount[player];
+        1:  548:    state->discardCount[player] = 0;//Reset discard
+        -:  549:
+        -:  550:    //Shufffle the deck
+        1:  551:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+call    0 returned 1
+        -:  552:
+        -:  553:    if (DEBUG){//Debug statements
+        -:  554:      printf("Deck count now: %d\n", state->deckCount[player]);
+        -:  555:    }
+        -:  556:
+        1:  557:    state->discardCount[player] = 0;
+        -:  558:
+        -:  559:    //Step 2 Draw Card
+        1:  560:    count = state->handCount[player];//Get current player's hand count
+        -:  561:
+        -:  562:    if (DEBUG){//Debug statements
+        -:  563:      printf("Current hand count: %d\n", count);
+        -:  564:    }
+        -:  565:
+        1:  566:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+        -:  567:
+        1:  568:    if (deckCounter == 0)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1
+    #####:  569:      return -1;
+        -:  570:
+        1:  571:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
+        1:  572:    state->deckCount[player]--;
+        1:  573:    state->handCount[player]++;//Increment hand count
+        -:  574:  }
+        -:  575:
+        -:  576:  else{
+     1634:  577:    int count = state->handCount[player];//Get current hand count for player
+        -:  578:    int deckCounter;
+        -:  579:    if (DEBUG){//Debug statements
+        -:  580:      printf("Current hand count: %d\n", count);
+        -:  581:    }
+        -:  582:
+     1634:  583:    deckCounter = state->deckCount[player];//Create holder for the deck count
+     1634:  584:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+     1634:  585:    state->deckCount[player]--;
+     1634:  586:    state->handCount[player]++;//Increment hand count
+        -:  587:  }
+        -:  588:
+     1635:  589:  return 0;
+        -:  590:}
+        -:  591:
+function getCost called 0 returned 0% blocks executed 0%
+    #####:  592:int getCost(int cardNumber)
+        -:  593:{
+    #####:  594:  switch( cardNumber )
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+branch  4 never executed
+branch  5 never executed
+branch  6 never executed
+branch  7 never executed
+branch  8 never executed
+branch  9 never executed
+branch 10 never executed
+branch 11 never executed
+branch 12 never executed
+branch 13 never executed
+branch 14 never executed
+branch 15 never executed
+branch 16 never executed
+branch 17 never executed
+branch 18 never executed
+branch 19 never executed
+branch 20 never executed
+branch 21 never executed
+branch 22 never executed
+branch 23 never executed
+branch 24 never executed
+branch 25 never executed
+branch 26 never executed
+branch 27 never executed
+        -:  595:    {
+        -:  596:    case curse:
+    #####:  597:      return 0;
+        -:  598:    case estate:
+    #####:  599:      return 2;
+        -:  600:    case duchy:
+    #####:  601:      return 5;
+        -:  602:    case province:
+    #####:  603:      return 8;
+        -:  604:    case copper:
+    #####:  605:      return 0;
+        -:  606:    case silver:
+    #####:  607:      return 3;
+        -:  608:    case gold:
+    #####:  609:      return 6;
+        -:  610:    case adventurer:
+    #####:  611:      return 6;
+        -:  612:    case council_room:
+    #####:  613:      return 5;
+        -:  614:    case feast:
+    #####:  615:      return 4;
+        -:  616:    case gardens:
+    #####:  617:      return 4;
+        -:  618:    case mine:
+    #####:  619:      return 5;
+        -:  620:    case remodel:
+    #####:  621:      return 4;
+        -:  622:    case smithy:
+    #####:  623:      return 4;
+        -:  624:    case village:
+    #####:  625:      return 3;
+        -:  626:    case baron:
+    #####:  627:      return 4;
+        -:  628:    case great_hall:
+    #####:  629:      return 3;
+        -:  630:    case minion:
+    #####:  631:      return 5;
+        -:  632:    case steward:
+    #####:  633:      return 3;
+        -:  634:    case tribute:
+    #####:  635:      return 5;
+        -:  636:    case ambassador:
+    #####:  637:      return 3;
+        -:  638:    case cutpurse:
+    #####:  639:      return 4;
+        -:  640:    case embargo:
+    #####:  641:      return 2;
+        -:  642:    case outpost:
+    #####:  643:      return 5;
+        -:  644:    case salvager:
+    #####:  645:      return 4;
+        -:  646:    case sea_hag:
+    #####:  647:      return 4;
+        -:  648:    case treasure_map:
+    #####:  649:      return 4;
+        -:  650:    }
+        -:  651:
+    #####:  652:  return -1;
+        -:  653:}
+        -:  654:
+function cardEffect called 98 returned 100% blocks executed 3%
+       98:  655:int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
+        -:  656:{
+        -:  657:  int i;
+        -:  658:  int j;
+        -:  659:  int k;
+        -:  660:  int x;
+        -:  661:  int index;
+       98:  662:  int currentPlayer = whoseTurn(state);
+call    0 returned 98
+       98:  663:  int nextPlayer = currentPlayer + 1;
+        -:  664:
+       98:  665:  int tributeRevealedCards[2] = {-1, -1};
+        -:  666:  int temphand[MAX_HAND];// moved above the if statement
+       98:  667:  int drawntreasure=0;
+        -:  668:  int cardDrawn;
+       98:  669:  int z = 0;// this is the counter for the temp hand
+       98:  670:  if (nextPlayer > (state->numPlayers - 1)){
+branch  0 taken 17 (fallthrough)
+branch  1 taken 81
+       17:  671:    nextPlayer = 0;
+        -:  672:  }
+        -:  673:
+        -:  674:
+        -:  675:  //uses switch to select card and perform actions
+       98:  676:  switch( card )
+branch  0 taken 98
+branch  1 taken 0
+branch  2 taken 0
+branch  3 taken 0
+branch  4 taken 0
+branch  5 taken 0
+branch  6 taken 0
+branch  7 taken 0
+branch  8 taken 0
+branch  9 taken 0
+branch 10 taken 0
+branch 11 taken 0
+branch 12 taken 0
+branch 13 taken 0
+branch 14 taken 0
+branch 15 taken 0
+branch 16 taken 0
+branch 17 taken 0
+branch 18 taken 0
+branch 19 taken 0
+branch 20 taken 0
+        -:  677:    {
+        -:  678:    case adventurer:
+       98:  679:	  adv(state, handPos, currentPlayer, z, temphand, drawntreasure, cardDrawn);
+call    0 returned 98
+       98:  680:      return 0;
+        -:  681:
+        -:  682:    case council_room:
+    #####:  683:	  cou(state, handPos, currentPlayer);
+call    0 never executed
+    #####:  684:      return 0;
+        -:  685:
+        -:  686:    case feast:
+        -:  687:      //gain card with cost up to 5
+        -:  688:      //Backup hand
+    #####:  689:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+branch  0 never executed
+branch  1 never executed
+    #####:  690:	temphand[i] = state->hand[currentPlayer][i];//Backup card
+    #####:  691:	state->hand[currentPlayer][i] = -1;//Set to nothing
+        -:  692:      }
+        -:  693:      //Backup hand
+        -:  694:
+        -:  695:      //Update Coins for Buy
+    #####:  696:      updateCoins(currentPlayer, state, 5);
+call    0 never executed
+    #####:  697:      x = 1;//Condition to loop on
+    #####:  698:      while( x == 1) {//Buy one card
+branch  0 never executed
+branch  1 never executed
+    #####:  699:	if (supplyCount(choice1, state) <= 0){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+        -:  700:	  if (DEBUG)
+        -:  701:	    printf("None of that card left, sorry!\n");
+        -:  702:
+        -:  703:	  if (DEBUG){
+        -:  704:	    printf("Cards Left: %d\n", supplyCount(choice1, state));
+        -:  705:	  }
+        -:  706:	}
+    #####:  707:	else if (state->coins < getCost(choice1)){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+    #####:  708:	  printf("That card is too expensive!\n");
+call    0 never executed
+        -:  709:
+        -:  710:	  if (DEBUG){
+        -:  711:	    printf("Coins: %d < %d\n", state->coins, getCost(choice1));
+        -:  712:	  }
+        -:  713:	}
+        -:  714:	else{
+        -:  715:
+        -:  716:	  if (DEBUG){
+        -:  717:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  718:	  }
+        -:  719:
+    #####:  720:	  gainCard(choice1, state, 0, currentPlayer);//Gain the card
+call    0 never executed
+    #####:  721:	  x = 0;//No more buying cards
+        -:  722:
+        -:  723:	  if (DEBUG){
+        -:  724:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  725:	  }
+        -:  726:
+        -:  727:	}
+        -:  728:      }
+        -:  729:
+        -:  730:      //Reset Hand
+    #####:  731:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+branch  0 never executed
+branch  1 never executed
+    #####:  732:	state->hand[currentPlayer][i] = temphand[i];
+    #####:  733:	temphand[i] = -1;
+        -:  734:      }
+        -:  735:      //Reset Hand
+        -:  736:
+    #####:  737:      return 0;
+        -:  738:
+        -:  739:    case gardens:
+    #####:  740:      return -1;
+        -:  741:
+        -:  742:    case mine:
+    #####:  743:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  744:
+    #####:  745:      if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+        -:  746:	{
+    #####:  747:	  return -1;
+        -:  748:	}
+        -:  749:
+    #####:  750:      if (choice2 > treasure_map || choice2 < curse)
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+        -:  751:	{
+    #####:  752:	  return -1;
+        -:  753:	}
+        -:  754:
+    #####:  755:      if ( (getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2) )
+call    0 never executed
+call    1 never executed
+branch  2 never executed
+branch  3 never executed
+        -:  756:	{
+    #####:  757:	  return -1;
+        -:  758:	}
+        -:  759:
+    #####:  760:      gainCard(choice2, state, 2, currentPlayer);
+call    0 never executed
+        -:  761:
+        -:  762:      //discard card from hand
+    #####:  763:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -:  764:
+        -:  765:      //discard trashed card
+    #####:  766:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  767:	{
+    #####:  768:	  if (state->hand[currentPlayer][i] == j)
+branch  0 never executed
+branch  1 never executed
+        -:  769:	    {
+    #####:  770:	      discardCard(i, currentPlayer, state, 0);
+call    0 never executed
+    #####:  771:	      break;
+        -:  772:	    }
+        -:  773:	}
+        -:  774:
+    #####:  775:      return 0;
+        -:  776:
+        -:  777:    case remodel:
+    #####:  778:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  779:
+    #####:  780:      if ( (getCost(state->hand[currentPlayer][choice1]) + 2) > getCost(choice2) )
+call    0 never executed
+call    1 never executed
+branch  2 never executed
+branch  3 never executed
+        -:  781:	{
+    #####:  782:	  return -1;
+        -:  783:	}
+        -:  784:
+    #####:  785:      gainCard(choice2, state, 0, currentPlayer);
+call    0 never executed
+        -:  786:
+        -:  787:      //discard card from hand
+    #####:  788:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -:  789:
+        -:  790:      //discard trashed card
+    #####:  791:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  792:	{
+    #####:  793:	  if (state->hand[currentPlayer][i] == j)
+branch  0 never executed
+branch  1 never executed
+        -:  794:	    {
+    #####:  795:	      discardCard(i, currentPlayer, state, 0);
+call    0 never executed
+    #####:  796:	      break;
+        -:  797:	    }
+        -:  798:	}
+        -:  799:
+        -:  800:
+    #####:  801:      return 0;
+        -:  802:
+        -:  803:    case smithy:
+    #####:  804:	  smi(state, handPos, currentPlayer);
+call    0 never executed
+    #####:  805:      return 0;
+        -:  806:
+        -:  807:    case village:
+    #####:  808:	  vil(state, handPos, currentPlayer);
+call    0 never executed
+    #####:  809:      return 0;
+        -:  810:
+        -:  811:    case baron:
+    #####:  812:      state->numBuys++;//Increase buys by 1!
+    #####:  813:      if (choice1 > 0){//Boolean true or going to discard an estate
+branch  0 never executed
+branch  1 never executed
+    #####:  814:	int p = 0;//Iterator for hand!
+    #####:  815:	int card_not_discarded = 1;//Flag for discard set!
+    #####:  816:	while(card_not_discarded){
+branch  0 never executed
+branch  1 never executed
+    #####:  817:	  if (state->hand[currentPlayer][p] == estate){//Found an estate card!
+branch  0 never executed
+branch  1 never executed
+    #####:  818:	    state->coins += 4;//Add 4 coins to the amount of coins
+    #####:  819:	    state->discard[currentPlayer][state->discardCount[currentPlayer]] = state->hand[currentPlayer][p];
+    #####:  820:	    state->discardCount[currentPlayer]++;
+    #####:  821:	    for (;p < state->handCount[currentPlayer]; p++){
+branch  0 never executed
+branch  1 never executed
+    #####:  822:	      state->hand[currentPlayer][p] = state->hand[currentPlayer][p+1];
+        -:  823:	    }
+    #####:  824:	    state->hand[currentPlayer][state->handCount[currentPlayer]] = -1;
+    #####:  825:	    state->handCount[currentPlayer]--;
+    #####:  826:	    card_not_discarded = 0;//Exit the loop
+        -:  827:	  }
+    #####:  828:	  else if (p > state->handCount[currentPlayer]){
+branch  0 never executed
+branch  1 never executed
+        -:  829:	    if(DEBUG) {
+        -:  830:	      printf("No estate cards in your hand, invalid choice\n");
+        -:  831:	      printf("Must gain an estate if there are any\n");
+        -:  832:	    }
+    #####:  833:	    if (supplyCount(estate, state) > 0){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+    #####:  834:	      gainCard(estate, state, 0, currentPlayer);
+call    0 never executed
+    #####:  835:	      state->supplyCount[estate]--;//Decrement estates
+    #####:  836:	      if (supplyCount(estate, state) == 0){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+    #####:  837:		isGameOver(state);
+call    0 never executed
+        -:  838:	      }
+        -:  839:	    }
+    #####:  840:	    card_not_discarded = 0;//Exit the loop
+        -:  841:	  }
+        -:  842:
+        -:  843:	  else{
+    #####:  844:	    p++;//Next card
+        -:  845:	  }
+        -:  846:	}
+        -:  847:      }
+        -:  848:
+        -:  849:      else{
+    #####:  850:	if (supplyCount(estate, state) > 0){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+    #####:  851:	  gainCard(estate, state, 0, currentPlayer);//Gain an estate
+call    0 never executed
+    #####:  852:	  state->supplyCount[estate]--;//Decrement Estates
+    #####:  853:	  if (supplyCount(estate, state) == 0){
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+    #####:  854:	    isGameOver(state);
+call    0 never executed
+        -:  855:	  }
+        -:  856:	}
+        -:  857:      }
+        -:  858:
+        -:  859:
+    #####:  860:      return 0;
+        -:  861:
+        -:  862:    case great_hall:
+        -:  863:      //+1 Card
+    #####:  864:      drawCard(currentPlayer, state);
+call    0 never executed
+        -:  865:
+        -:  866:      //+1 Actions
+    #####:  867:      state->numActions++;
+        -:  868:
+        -:  869:      //discard card from hand
+    #####:  870:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####:  871:      return 0;
+        -:  872:
+        -:  873:    case minion:
+        -:  874:      //+1 action
+    #####:  875:      state->numActions++;
+        -:  876:
+        -:  877:      //discard card from hand
+    #####:  878:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -:  879:
+    #####:  880:      if (choice1)		//+2 coins
+branch  0 never executed
+branch  1 never executed
+        -:  881:	{
+    #####:  882:	  state->coins = state->coins + 2;
+        -:  883:	}
+        -:  884:
+    #####:  885:      else if (choice2)		//discard hand, redraw 4, other players with 5+ cards discard hand and draw 4
+branch  0 never executed
+branch  1 never executed
+        -:  886:	{
+        -:  887:	  //discard hand
+    #####:  888:	  while(numHandCards(state) > 0)
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+        -:  889:	    {
+    #####:  890:	      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -:  891:	    }
+        -:  892:
+        -:  893:	  //draw 4
+    #####:  894:	  for (i = 0; i < 4; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  895:	    {
+    #####:  896:	      drawCard(currentPlayer, state);
+call    0 never executed
+        -:  897:	    }
+        -:  898:
+        -:  899:	  //other players discard hand and redraw if hand size > 4
+    #####:  900:	  for (i = 0; i < state->numPlayers; i++)
+branch  0 never executed
+branch  1 never executed
+        -:  901:	    {
+    #####:  902:	      if (i != currentPlayer)
+branch  0 never executed
+branch  1 never executed
+        -:  903:		{
+    #####:  904:		  if ( state->handCount[i] > 4 )
+branch  0 never executed
+branch  1 never executed
+        -:  905:		    {
+        -:  906:		      //discard hand
+    #####:  907:		      while( state->handCount[i] > 0 )
+branch  0 never executed
+branch  1 never executed
+        -:  908:			{
+    #####:  909:			  discardCard(handPos, i, state, 0);
+call    0 never executed
+        -:  910:			}
+        -:  911:
+        -:  912:		      //draw 4
+    #####:  913:		      for (j = 0; j < 4; j++)
+branch  0 never executed
+branch  1 never executed
+        -:  914:			{
+    #####:  915:			  drawCard(i, state);
+call    0 never executed
+        -:  916:			}
+        -:  917:		    }
+        -:  918:		}
+        -:  919:	    }
+        -:  920:
+        -:  921:	}
+    #####:  922:      return 0;
+        -:  923:
+        -:  924:    case steward:
+    #####:  925:      if (choice1 == 1)
+branch  0 never executed
+branch  1 never executed
+        -:  926:	{
+        -:  927:	  //+2 cards
+    #####:  928:	  drawCard(currentPlayer, state);
+call    0 never executed
+    #####:  929:	  drawCard(currentPlayer, state);
+call    0 never executed
+        -:  930:	}
+    #####:  931:      else if (choice1 == 2)
+branch  0 never executed
+branch  1 never executed
+        -:  932:	{
+        -:  933:	  //+2 coins
+    #####:  934:	  state->coins = state->coins + 2;
+        -:  935:	}
+        -:  936:      else
+        -:  937:	{
+        -:  938:	  //trash 2 cards in hand
+    #####:  939:	  discardCard(choice2, currentPlayer, state, 1);
+call    0 never executed
+    #####:  940:	  discardCard(choice3, currentPlayer, state, 1);
+call    0 never executed
+        -:  941:	}
+        -:  942:
+        -:  943:      //discard card from hand
+    #####:  944:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####:  945:      return 0;
+        -:  946:
+        -:  947:    case tribute:
+    #####:  948:      if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
+branch  0 never executed
+branch  1 never executed
+    #####:  949:	if (state->deckCount[nextPlayer] > 0){
+branch  0 never executed
+branch  1 never executed
+    #####:  950:	  tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  951:	  state->deckCount[nextPlayer]--;
+        -:  952:	}
+    #####:  953:	else if (state->discardCount[nextPlayer] > 0){
+branch  0 never executed
+branch  1 never executed
+    #####:  954:	  tributeRevealedCards[0] = state->discard[nextPlayer][state->discardCount[nextPlayer]-1];
+    #####:  955:	  state->discardCount[nextPlayer]--;
+        -:  956:	}
+        -:  957:	else{
+        -:  958:	  //No Card to Reveal
+        -:  959:	  if (DEBUG){
+        -:  960:	    printf("No cards to reveal\n");
+        -:  961:	  }
+        -:  962:	}
+        -:  963:      }
+        -:  964:
+        -:  965:      else{
+    #####:  966:	if (state->deckCount[nextPlayer] == 0){
+branch  0 never executed
+branch  1 never executed
+    #####:  967:	  for (i = 0; i < state->discardCount[nextPlayer]; i++){
+branch  0 never executed
+branch  1 never executed
+    #####:  968:	    state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
+    #####:  969:	    state->deckCount[nextPlayer]++;
+    #####:  970:	    state->discard[nextPlayer][i] = -1;
+    #####:  971:	    state->discardCount[nextPlayer]--;
+        -:  972:	  }
+        -:  973:
+    #####:  974:	  shuffle(nextPlayer,state);//Shuffle the deck
+call    0 never executed
+        -:  975:	}
+    #####:  976:	tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  977:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####:  978:	state->deckCount[nextPlayer]--;
+    #####:  979:	tributeRevealedCards[1] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####:  980:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####:  981:	state->deckCount[nextPlayer]--;
+        -:  982:      }
+        -:  983:
+    #####:  984:      if (tributeRevealedCards[0] == tributeRevealedCards[1]){//If we have a duplicate card, just drop one
+branch  0 never executed
+branch  1 never executed
+    #####:  985:	state->playedCards[state->playedCardCount] = tributeRevealedCards[1];
+    #####:  986:	state->playedCardCount++;
+    #####:  987:	tributeRevealedCards[1] = -1;
+        -:  988:      }
+        -:  989:
+    #####:  990:      for (i = 0; i <= 2; i ++){
+branch  0 never executed
+branch  1 never executed
+    #####:  991:	if (tributeRevealedCards[i] == copper || tributeRevealedCards[i] == silver || tributeRevealedCards[i] == gold){//Treasure cards
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+branch  4 never executed
+branch  5 never executed
+    #####:  992:	  state->coins += 2;
+        -:  993:	}
+        -:  994:
+    #####:  995:	else if (tributeRevealedCards[i] == estate || tributeRevealedCards[i] == duchy || tributeRevealedCards[i] == province || tributeRevealedCards[i] == gardens || tributeRevealedCards[i] == great_hall){//Victory Card Found
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+branch  4 never executed
+branch  5 never executed
+branch  6 never executed
+branch  7 never executed
+branch  8 never executed
+branch  9 never executed
+    #####:  996:	  drawCard(currentPlayer, state);
+call    0 never executed
+    #####:  997:	  drawCard(currentPlayer, state);
+call    0 never executed
+        -:  998:	}
+        -:  999:	else{//Action Card
+    #####: 1000:	  state->numActions = state->numActions + 2;
+        -: 1001:	}
+        -: 1002:      }
+        -: 1003:
+    #####: 1004:      return 0;
+        -: 1005:
+        -: 1006:    case ambassador:
+    #####: 1007:      j = 0;		//used to check if player has enough cards to discard
+        -: 1008:
+    #####: 1009:      if (choice2 > 2 || choice2 < 0)
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+        -: 1010:	{
+    #####: 1011:	  return -1;
+        -: 1012:	}
+        -: 1013:
+    #####: 1014:      if (choice1 == handPos)
+branch  0 never executed
+branch  1 never executed
+        -: 1015:	{
+    #####: 1016:	  return -1;
+        -: 1017:	}
+        -: 1018:
+    #####: 1019:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1020:	{
+    #####: 1021:	  if (i != handPos && i == state->hand[currentPlayer][choice1] && i != choice1)
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+branch  4 never executed
+branch  5 never executed
+        -: 1022:	    {
+    #####: 1023:	      j++;
+        -: 1024:	    }
+        -: 1025:	}
+    #####: 1026:      if (j < choice2)
+branch  0 never executed
+branch  1 never executed
+        -: 1027:	{
+    #####: 1028:	  return -1;
+        -: 1029:	}
+        -: 1030:
+        -: 1031:      if (DEBUG)
+        -: 1032:	printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
+        -: 1033:
+        -: 1034:      //increase supply count for choosen card by amount being discarded
+    #####: 1035:      state->supplyCount[state->hand[currentPlayer][choice1]] += choice2;
+        -: 1036:
+        -: 1037:      //each other player gains a copy of revealed card
+    #####: 1038:      for (i = 0; i < state->numPlayers; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1039:	{
+    #####: 1040:	  if (i != currentPlayer)
+branch  0 never executed
+branch  1 never executed
+        -: 1041:	    {
+    #####: 1042:	      gainCard(state->hand[currentPlayer][choice1], state, 0, i);
+call    0 never executed
+        -: 1043:	    }
+        -: 1044:	}
+        -: 1045:
+        -: 1046:      //discard played card from hand
+    #####: 1047:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -: 1048:
+        -: 1049:      //trash copies of cards returned to supply
+    #####: 1050:      for (j = 0; j < choice2; j++)
+branch  0 never executed
+branch  1 never executed
+        -: 1051:	{
+    #####: 1052:	  for (i = 0; i < state->handCount[currentPlayer]; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1053:	    {
+    #####: 1054:	      if (state->hand[currentPlayer][i] == state->hand[currentPlayer][choice1])
+branch  0 never executed
+branch  1 never executed
+        -: 1055:		{
+    #####: 1056:		  discardCard(i, currentPlayer, state, 1);
+call    0 never executed
+    #####: 1057:		  break;
+        -: 1058:		}
+        -: 1059:	    }
+        -: 1060:	}
+        -: 1061:
+    #####: 1062:      return 0;
+        -: 1063:
+        -: 1064:    case cutpurse:
+        -: 1065:
+    #####: 1066:      updateCoins(currentPlayer, state, 2);
+call    0 never executed
+    #####: 1067:      for (i = 0; i < state->numPlayers; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1068:	{
+    #####: 1069:	  if (i != currentPlayer)
+branch  0 never executed
+branch  1 never executed
+        -: 1070:	    {
+    #####: 1071:	      for (j = 0; j < state->handCount[i]; j++)
+branch  0 never executed
+branch  1 never executed
+        -: 1072:		{
+    #####: 1073:		  if (state->hand[i][j] == copper)
+branch  0 never executed
+branch  1 never executed
+        -: 1074:		    {
+    #####: 1075:		      discardCard(j, i, state, 0);
+call    0 never executed
+    #####: 1076:		      break;
+        -: 1077:		    }
+    #####: 1078:		  if (j == state->handCount[i])
+branch  0 never executed
+branch  1 never executed
+        -: 1079:		    {
+    #####: 1080:		      for (k = 0; k < state->handCount[i]; k++)
+branch  0 never executed
+branch  1 never executed
+        -: 1081:			{
+        -: 1082:			  if (DEBUG)
+        -: 1083:			    printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
+        -: 1084:			}
+    #####: 1085:		      break;
+        -: 1086:		    }
+        -: 1087:		}
+        -: 1088:
+        -: 1089:	    }
+        -: 1090:
+        -: 1091:	}
+        -: 1092:
+        -: 1093:      //discard played card from hand
+    #####: 1094:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -: 1095:
+    #####: 1096:      return 0;
+        -: 1097:
+        -: 1098:
+        -: 1099:    case embargo:
+        -: 1100:      //+2 Coins
+    #####: 1101:      state->coins = state->coins + 2;
+        -: 1102:
+        -: 1103:      //see if selected pile is in play
+    #####: 1104:      if ( state->supplyCount[choice1] == -1 )
+branch  0 never executed
+branch  1 never executed
+        -: 1105:	{
+    #####: 1106:	  return -1;
+        -: 1107:	}
+        -: 1108:
+        -: 1109:      //add embargo token to selected supply pile
+    #####: 1110:      state->embargoTokens[choice1]++;
+        -: 1111:
+        -: 1112:      //trash card
+    #####: 1113:      discardCard(handPos, currentPlayer, state, 1);
+call    0 never executed
+    #####: 1114:      return 0;
+        -: 1115:
+        -: 1116:    case outpost:
+        -: 1117:      //set outpost flag
+    #####: 1118:      state->outpostPlayed++;
+        -: 1119:
+        -: 1120:      //discard card
+    #####: 1121:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####: 1122:      return 0;
+        -: 1123:
+        -: 1124:    case salvager:
+        -: 1125:      //+1 buy
+    #####: 1126:      state->numBuys++;
+        -: 1127:
+    #####: 1128:      if (choice1)
+branch  0 never executed
+branch  1 never executed
+        -: 1129:	{
+        -: 1130:	  //gain coins equal to trashed card
+    #####: 1131:	  state->coins = state->coins + getCost( handCard(choice1, state) );
+call    0 never executed
+call    1 never executed
+        -: 1132:	  //trash card
+    #####: 1133:	  discardCard(choice1, currentPlayer, state, 1);
+call    0 never executed
+        -: 1134:	}
+        -: 1135:
+        -: 1136:      //discard card
+    #####: 1137:      discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####: 1138:      return 0;
+        -: 1139:
+        -: 1140:    case sea_hag:
+    #####: 1141:      sea(state, handPos, currentPlayer);
+call    0 never executed
+    #####: 1142:      return 0;
+        -: 1143:
+        -: 1144:    case treasure_map:
+        -: 1145:      //search hand for another treasure_map
+    #####: 1146:      index = -1;
+    #####: 1147:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1148:	{
+    #####: 1149:	  if (state->hand[currentPlayer][i] == treasure_map && i != handPos)
+branch  0 never executed
+branch  1 never executed
+branch  2 never executed
+branch  3 never executed
+        -: 1150:	    {
+    #####: 1151:	      index = i;
+    #####: 1152:	      break;
+        -: 1153:	    }
+        -: 1154:	}
+    #####: 1155:      if (index > -1)
+branch  0 never executed
+branch  1 never executed
+        -: 1156:	{
+        -: 1157:	  //trash both treasure cards
+    #####: 1158:	  discardCard(handPos, currentPlayer, state, 1);
+call    0 never executed
+    #####: 1159:	  discardCard(index, currentPlayer, state, 1);
+call    0 never executed
+        -: 1160:
+        -: 1161:	  //gain 4 Gold cards
+    #####: 1162:	  for (i = 0; i < 4; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1163:	    {
+    #####: 1164:	      gainCard(gold, state, 1, currentPlayer);
+call    0 never executed
+        -: 1165:	    }
+        -: 1166:
+        -: 1167:	  //return success
+    #####: 1168:	  return 1;
+        -: 1169:	}
+        -: 1170:
+        -: 1171:      //no second treasure_map found in hand
+    #####: 1172:      return -1;
+        -: 1173:    }
+        -: 1174:
+    #####: 1175:  return -1;
+        -: 1176:}
+        -: 1177:
+function discardCard called 0 returned 0% blocks executed 0%
+    #####: 1178:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+        -: 1179:{
+        -: 1180:
+        -: 1181:  //if card is not trashed, added to Played pile
+    #####: 1182:  if (trashFlag < 1)
+branch  0 never executed
+branch  1 never executed
+        -: 1183:    {
+        -: 1184:      //add card to played pile
+    #####: 1185:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos];
+    #####: 1186:      state->playedCardCount++;
+        -: 1187:    }
+        -: 1188:
+        -: 1189:  //set played card to -1
+    #####: 1190:  state->hand[currentPlayer][handPos] = -1;
+        -: 1191:
+        -: 1192:  //remove card from player's hand
+    #####: 1193:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+branch  0 never executed
+branch  1 never executed
+        -: 1194:    {
+        -: 1195:      //reduce number of cards in hand
+    #####: 1196:      state->handCount[currentPlayer]--;
+        -: 1197:    }
+    #####: 1198:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+branch  0 never executed
+branch  1 never executed
+        -: 1199:    {
+        -: 1200:      //reduce number of cards in hand
+    #####: 1201:      state->handCount[currentPlayer]--;
+        -: 1202:    }
+        -: 1203:  else
+        -: 1204:    {
+        -: 1205:      //replace discarded card with last card in hand
+    #####: 1206:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+        -: 1207:      //set last card to -1
+    #####: 1208:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+        -: 1209:      //reduce number of cards in hand
+    #####: 1210:      state->handCount[currentPlayer]--;
+        -: 1211:    }
+        -: 1212:
+    #####: 1213:  return 0;
+        -: 1214:}
+        -: 1215:
+function gainCard called 0 returned 0% blocks executed 0%
+    #####: 1216:int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
+        -: 1217:{
+        -: 1218:  //Note: supplyPos is enum of choosen card
+        -: 1219:
+        -: 1220:  //check if supply pile is empty (0) or card is not used in game (-1)
+    #####: 1221:  if ( supplyCount(supplyPos, state) < 1 )
+call    0 never executed
+branch  1 never executed
+branch  2 never executed
+        -: 1222:    {
+    #####: 1223:      return -1;
+        -: 1224:    }
+        -: 1225:
+        -: 1226:  //added card for [whoseTurn] current player:
+        -: 1227:  // toFlag = 0 : add to discard
+        -: 1228:  // toFlag = 1 : add to deck
+        -: 1229:  // toFlag = 2 : add to hand
+        -: 1230:
+    #####: 1231:  if (toFlag == 1)
+branch  0 never executed
+branch  1 never executed
+        -: 1232:    {
+    #####: 1233:      state->deck[ player ][ state->deckCount[player] ] = supplyPos;
+    #####: 1234:      state->deckCount[player]++;
+        -: 1235:    }
+    #####: 1236:  else if (toFlag == 2)
+branch  0 never executed
+branch  1 never executed
+        -: 1237:    {
+    #####: 1238:      state->hand[ player ][ state->handCount[player] ] = supplyPos;
+    #####: 1239:      state->handCount[player]++;
+        -: 1240:    }
+        -: 1241:  else
+        -: 1242:    {
+    #####: 1243:      state->discard[player][ state->discardCount[player] ] = supplyPos;
+    #####: 1244:      state->discardCount[player]++;
+        -: 1245:    }
+        -: 1246:
+        -: 1247:  //decrease number in supply pile
+    #####: 1248:  state->supplyCount[supplyPos]--;
+        -: 1249:
+    #####: 1250:  return 0;
+        -: 1251:}
+        -: 1252:
+function updateCoins called 1 returned 100% blocks executed 82%
+        1: 1253:int updateCoins(int player, struct gameState *state, int bonus)
+        -: 1254:{
+        -: 1255:  int i;
+        -: 1256:
+        -: 1257:  //reset coin count
+        1: 1258:  state->coins = 0;
+        -: 1259:
+        -: 1260:  //add coins for each Treasure card in player's hand
+        6: 1261:  for (i = 0; i < state->handCount[player]; i++)
+branch  0 taken 5
+branch  1 taken 1 (fallthrough)
+        -: 1262:    {
+        5: 1263:      if (state->hand[player][i] == copper)
+branch  0 taken 3 (fallthrough)
+branch  1 taken 2
+        -: 1264:	{
+        3: 1265:	  state->coins += 1;
+        -: 1266:	}
+        2: 1267:      else if (state->hand[player][i] == silver)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 2
+        -: 1268:	{
+    #####: 1269:	  state->coins += 2;
+        -: 1270:	}
+        2: 1271:      else if (state->hand[player][i] == gold)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 2
+        -: 1272:	{
+    #####: 1273:	  state->coins += 3;
+        -: 1274:	}
+        -: 1275:    }
+        -: 1276:
+        -: 1277:  //add bonus
+        1: 1278:  state->coins += bonus;
+        -: 1279:
+        1: 1280:  return 0;
+        -: 1281:}
+        -: 1282:
+        -: 1283:/*The following 5 functions (smi( ), vil( ), adv( ),
+        -: 1284:/ mil( ), and sil( )) contain card implementation code.  This
+        -: 1285:/ implementation code has been moved from the function cardEffect( ).
+        -: 1286:/ Bugs have been introduced as described above each function*/
+        -: 1287:
+        -: 1288:
+        -: 1289:/*Changed conditional check to <=.  This will cause 4 cards to be drawn*/
+function smi called 0 returned 0% blocks executed 0%
+    #####: 1290:void smi(struct gameState *state, int handPos, int currentPlayer) {
+        -: 1291:	//+3 Cards
+        -: 1292:	int i;
+    #####: 1293:	for (i = 0; i <= 3; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1294:	{
+    #####: 1295:	  drawCard(currentPlayer, state);
+call    0 never executed
+        -: 1296:	}
+        -: 1297:
+        -: 1298:    //discard card from hand
+    #####: 1299:    discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####: 1300:}
+        -: 1301:
+        -: 1302:/* Changed numActions effect to = 2 instead of numActions+2
+        -: 1303:/ Original code has been commented out*/
+function vil called 0 returned 0% blocks executed 0%
+    #####: 1304:void vil(struct gameState *state, int handPos, int currentPlayer) {
+        -: 1305:    //+1 Card
+    #####: 1306:    drawCard(currentPlayer, state);
+call    0 never executed
+        -: 1307:
+        -: 1308:    //+2 Actions
+        -: 1309:    //state->numActions = state->numActions + 2;
+    #####: 1310:    state->numActions = 2;
+        -: 1311:
+        -: 1312:    //discard played card from hand
+    #####: 1313:    discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####: 1314:}
+        -: 1315:
+        -: 1316:
+        -: 1317:/*Commented out else statement that removes non-treasure cards from hand and places
+        -: 1318:/ them in the temp hand.  This will leave all cards drawn in the hand.*/
+function adv called 98 returned 100% blocks executed 92%
+       98: 1319:void adv(struct gameState *state, int handPos, int currentPlayer, int z, int temphand[], int drawntreasure, int cardDrawn) {
+     1826: 1320:	while(drawntreasure<2){
+branch  0 taken 1630
+branch  1 taken 98 (fallthrough)
+     1630: 1321:		if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+branch  0 taken 1 (fallthrough)
+branch  1 taken 1629
+        1: 1322:		  shuffle(currentPlayer, state);
+call    0 returned 1
+        -: 1323:		}
+     1630: 1324:		drawCard(currentPlayer, state);
+call    0 returned 1630
+     1630: 1325:		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+     1630: 1326:		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+branch  0 taken 1569 (fallthrough)
+branch  1 taken 61
+branch  2 taken 1496 (fallthrough)
+branch  3 taken 73
+branch  4 taken 62 (fallthrough)
+branch  5 taken 1434
+      196: 1327:		  drawntreasure++;
+        -: 1328:		/*else{
+        -: 1329:		  temphand[z]=cardDrawn;
+        -: 1330:		  state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+        -: 1331:		  z++;
+        -: 1332:		}*/
+        -: 1333:    }
+      196: 1334:    while(z-1>=0){
+branch  0 taken 0
+branch  1 taken 98 (fallthrough)
+    #####: 1335:	  state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+    #####: 1336:	  z=z-1;
+        -: 1337:    }
+        -: 1338:
+        -: 1339:	//discard played card from hand; not included in original file, so commented out for now
+        -: 1340:    /*discardCard(handPos, currentPlayer, state, 0);*/
+       98: 1341:}
+        -: 1342:
+function cou called 0 returned 0% blocks executed 0%
+    #####: 1343:void cou(struct gameState *state, int handPos, int currentPlayer) {
+        -: 1344:	//+4 Cards
+        -: 1345:	int i;
+    #####: 1346:    for (i = 0; i < 4; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1347:	{
+    #####: 1348:	  drawCard(currentPlayer, state);
+call    0 never executed
+        -: 1349:	}
+        -: 1350:
+        -: 1351:    //+1 Buy
+    #####: 1352:    state->numBuys++;
+        -: 1353:
+        -: 1354:    //Each other player draws a card
+    #####: 1355:    for (i = 0; i < state->numPlayers; i++)
+branch  0 never executed
+branch  1 never executed
+        -: 1356:	{
+    #####: 1357:	  if ( i != currentPlayer )
+branch  0 never executed
+branch  1 never executed
+        -: 1358:	  {
+    #####: 1359:	    drawCard(i, state);
+call    0 never executed
+        -: 1360:	  }
+        -: 1361:	}
+        -: 1362:
+        -: 1363:    //put played card in played card pile
+    #####: 1364:    discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+        -: 1365:
+    #####: 1366:}
+        -: 1367:
+        -: 1368:
+        -: 1369:/*changed conditional from != to ==.  Expected to give curse to currentPlayer instead of other players.
+        -: 1370:/ Instead, Sea Hag card now seems to have no effect when played.*/
+function sea called 0 returned 0% blocks executed 0%
+    #####: 1371:void sea(struct gameState *state, int handPos, int currentPlayer) {
+        -: 1372:	int i;
+    #####: 1373:	for (i = 0; i < state->numPlayers; i++){
+branch  0 never executed
+branch  1 never executed
+    #####: 1374:	  if (i == currentPlayer){//changed != to ==
+branch  0 never executed
+branch  1 never executed
+    #####: 1375:	    state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
+    #####: 1376:		state->deckCount[i]--;
+    #####: 1377:	    state->discardCount[i]++;
+    #####: 1378:	    state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
+        -: 1379:	  }
+        -: 1380:    }
+    #####: 1381:}
+        -: 1382:
+        -: 1383:
+        -: 1384://end of dominion.c
+        -: 1385:
