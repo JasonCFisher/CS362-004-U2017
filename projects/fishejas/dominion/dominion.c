@@ -1372,15 +1372,6 @@ void sea(struct gameState *state, int handPos, int currentPlayer) {
 	for (i = 0; i < state->numPlayers; i++){
       if (i != currentPlayer){
         if (state->supplyCount[curse] > 0) {
-		  if (state->deckCount[i] < 1){//if the deck is empty we need to shuffle discard and add to deck
-		        //Step 1 Shuffle the discard pile back into a deck
-			    int j;
-				//Move discard to deck
-				for (j = 0; j < state->discardCount[i];j++){
-				  state->deck[i][j] = state->discard[i][j];
-				  state->discard[i][j] = -1;
-				}
-		  }
           state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]-1];
 	      state->discardCount[i]++;
 	      state->deck[i][state->deckCount[i]-1] = curse;//Top card now a curse
