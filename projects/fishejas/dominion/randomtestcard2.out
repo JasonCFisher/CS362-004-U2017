@@ -5,1611 +5,1611 @@ randomtestcard2.c
 
 Test 0, Current player is 2
 handCount for Player 0 159  :  Expected 159  :  PASS
-Combined Deck and Discard for Player 0 208  :  Expected 209  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 209  :  Expected 209  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 32  :  Expected 32  :  PASS
-Combined Deck and Discard for Player 1 242  :  Expected 243  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 192  :  Expected 191  :  FAIL
-Combined Deck and Discard for Player 2 297  :  Expected 299  :  FAIL
+Combined Deck and Discard for Player 1 243  :  Expected 243  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 191  :  Expected 191  :  PASS
+Combined Deck and Discard for Player 2 299  :  Expected 299  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 109  :  Expected 109  :  PASS
-Combined Deck and Discard for Player 3 314  :  Expected 315  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 315  :  Expected 315  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 1, Current player is 3
 handCount for Player 0 295  :  Expected 295  :  PASS
-Combined Deck and Discard for Player 0 165  :  Expected 166  :  FAIL
+Combined Deck and Discard for Player 0 166  :  Expected 166  :  PASS
 Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 3  :  Expected 3  :  PASS
-Combined Deck and Discard for Player 1 290  :  Expected 291  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 291  :  Expected 291  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 210  :  Expected 210  :  PASS
-Combined Deck and Discard for Player 2 207  :  Expected 208  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 84  :  Expected 83  :  FAIL
-Combined Deck and Discard for Player 3 247  :  Expected 249  :  FAIL
+Combined Deck and Discard for Player 2 208  :  Expected 208  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 83  :  Expected 83  :  PASS
+Combined Deck and Discard for Player 3 249  :  Expected 249  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 2, Current player is 3
 handCount for Player 0 224  :  Expected 224  :  PASS
-Combined Deck and Discard for Player 0 134  :  Expected 135  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 135  :  Expected 135  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 110  :  Expected 110  :  PASS
-Combined Deck and Discard for Player 1 293  :  Expected 294  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 294  :  Expected 294  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 115  :  Expected 115  :  PASS
-Combined Deck and Discard for Player 2 369  :  Expected 370  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 26  :  Expected 25  :  FAIL
-Combined Deck and Discard for Player 3 375  :  Expected 377  :  FAIL
-Top deck card for Player 3 curse  :  Expected not curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 2 370  :  Expected 370  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 25  :  Expected 25  :  PASS
+Combined Deck and Discard for Player 3 377  :  Expected 377  :  PASS
+Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 3, Current player is 0
-handCount for Player 0 122  :  Expected 121  :  FAIL
-Combined Deck and Discard for Player 0 351  :  Expected 353  :  FAIL
+handCount for Player 0 121  :  Expected 121  :  PASS
+Combined Deck and Discard for Player 0 353  :  Expected 353  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 295  :  Expected 295  :  PASS
-Combined Deck and Discard for Player 1 186  :  Expected 187  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 187  :  Expected 187  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 73  :  Expected 73  :  PASS
-Combined Deck and Discard for Player 2 375  :  Expected 376  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 376  :  Expected 376  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 263  :  Expected 263  :  PASS
-Combined Deck and Discard for Player 3 120  :  Expected 121  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 121  :  Expected 121  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 4, Current player is 2
 handCount for Player 0 211  :  Expected 211  :  PASS
-Combined Deck and Discard for Player 0 203  :  Expected 204  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 204  :  Expected 204  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 78  :  Expected 78  :  PASS
-Combined Deck and Discard for Player 1 151  :  Expected 152  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 129  :  Expected 128  :  FAIL
-Combined Deck and Discard for Player 2 333  :  Expected 335  :  FAIL
+Combined Deck and Discard for Player 1 152  :  Expected 152  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 128  :  Expected 128  :  PASS
+Combined Deck and Discard for Player 2 335  :  Expected 335  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 140  :  Expected 140  :  PASS
-Combined Deck and Discard for Player 3 309  :  Expected 310  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 310  :  Expected 310  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 5, Current player is 3
 handCount for Player 0 64  :  Expected 64  :  PASS
-Combined Deck and Discard for Player 0 340  :  Expected 341  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 341  :  Expected 341  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 12  :  Expected 12  :  PASS
-Combined Deck and Discard for Player 1 293  :  Expected 294  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 294  :  Expected 294  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 46  :  Expected 46  :  PASS
-Combined Deck and Discard for Player 2 251  :  Expected 252  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 36  :  Expected 35  :  FAIL
-Combined Deck and Discard for Player 3 114  :  Expected 116  :  FAIL
+Combined Deck and Discard for Player 2 252  :  Expected 252  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 35  :  Expected 35  :  PASS
+Combined Deck and Discard for Player 3 116  :  Expected 116  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 6, Current player is 0
-handCount for Player 0 215  :  Expected 214  :  FAIL
-Combined Deck and Discard for Player 0 184  :  Expected 186  :  FAIL
+handCount for Player 0 214  :  Expected 214  :  PASS
+Combined Deck and Discard for Player 0 186  :  Expected 186  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 21  :  Expected 21  :  PASS
-Combined Deck and Discard for Player 1 249  :  Expected 250  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 250  :  Expected 250  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 87  :  Expected 87  :  PASS
-Combined Deck and Discard for Player 2 324  :  Expected 325  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 325  :  Expected 325  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 187  :  Expected 187  :  PASS
-Combined Deck and Discard for Player 3 154  :  Expected 155  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 155  :  Expected 155  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 7, Current player is 3
 handCount for Player 0 370  :  Expected 370  :  PASS
-Combined Deck and Discard for Player 0 112  :  Expected 113  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 113  :  Expected 113  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 87  :  Expected 87  :  PASS
-Combined Deck and Discard for Player 1 309  :  Expected 310  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 310  :  Expected 310  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 88  :  Expected 88  :  PASS
-Combined Deck and Discard for Player 2 293  :  Expected 294  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 237  :  Expected 236  :  FAIL
-Combined Deck and Discard for Player 3 100  :  Expected 102  :  FAIL
+Combined Deck and Discard for Player 2 294  :  Expected 294  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 236  :  Expected 236  :  PASS
+Combined Deck and Discard for Player 3 102  :  Expected 102  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 8, Current player is 3
 handCount for Player 0 191  :  Expected 191  :  PASS
-Combined Deck and Discard for Player 0 283  :  Expected 284  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 284  :  Expected 284  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 327  :  Expected 327  :  PASS
-Combined Deck and Discard for Player 1 138  :  Expected 139  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 139  :  Expected 139  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 62  :  Expected 62  :  PASS
-Combined Deck and Discard for Player 2 382  :  Expected 383  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 327  :  Expected 326  :  FAIL
-Combined Deck and Discard for Player 3 1  :  Expected 3  :  FAIL
-Top deck card for Player 3 curse  :  Expected not curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 2 383  :  Expected 383  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 326  :  Expected 326  :  PASS
+Combined Deck and Discard for Player 3 3  :  Expected 3  :  PASS
+Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 9, Current player is 2
 handCount for Player 0 213  :  Expected 213  :  PASS
-Combined Deck and Discard for Player 0 221  :  Expected 222  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 222  :  Expected 222  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 47  :  Expected 47  :  PASS
-Combined Deck and Discard for Player 1 111  :  Expected 112  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 347  :  Expected 346  :  FAIL
-Combined Deck and Discard for Player 2 126  :  Expected 128  :  FAIL
+Combined Deck and Discard for Player 1 112  :  Expected 112  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 346  :  Expected 346  :  PASS
+Combined Deck and Discard for Player 2 128  :  Expected 128  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 106  :  Expected 106  :  PASS
-Combined Deck and Discard for Player 3 231  :  Expected 232  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 232  :  Expected 232  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 10, Current player is 0
-handCount for Player 0 347  :  Expected 346  :  FAIL
-Combined Deck and Discard for Player 0 41  :  Expected 43  :  FAIL
+handCount for Player 0 346  :  Expected 346  :  PASS
+Combined Deck and Discard for Player 0 43  :  Expected 43  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 75  :  Expected 75  :  PASS
-Combined Deck and Discard for Player 1 138  :  Expected 139  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 139  :  Expected 139  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 145  :  Expected 145  :  PASS
-Combined Deck and Discard for Player 2 251  :  Expected 252  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 252  :  Expected 252  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 104  :  Expected 104  :  PASS
-Combined Deck and Discard for Player 3 159  :  Expected 160  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 160  :  Expected 160  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 11, Current player is 3
 handCount for Player 0 65  :  Expected 65  :  PASS
-Combined Deck and Discard for Player 0 158  :  Expected 159  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 159  :  Expected 159  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 323  :  Expected 323  :  PASS
-Combined Deck and Discard for Player 1 58  :  Expected 59  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 59  :  Expected 59  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 10  :  Expected 10  :  PASS
-Combined Deck and Discard for Player 2 212  :  Expected 213  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 71  :  Expected 70  :  FAIL
-Combined Deck and Discard for Player 3 269  :  Expected 271  :  FAIL
+Combined Deck and Discard for Player 2 213  :  Expected 213  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 70  :  Expected 70  :  PASS
+Combined Deck and Discard for Player 3 271  :  Expected 271  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 12, Current player is 2
 handCount for Player 0 44  :  Expected 44  :  PASS
-Combined Deck and Discard for Player 0 309  :  Expected 310  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 310  :  Expected 310  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 85  :  Expected 85  :  PASS
-Combined Deck and Discard for Player 1 384  :  Expected 385  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 85  :  Expected 84  :  FAIL
-Combined Deck and Discard for Player 2 285  :  Expected 287  :  FAIL
+Combined Deck and Discard for Player 1 385  :  Expected 385  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 84  :  Expected 84  :  PASS
+Combined Deck and Discard for Player 2 287  :  Expected 287  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 162  :  Expected 162  :  PASS
-Combined Deck and Discard for Player 3 255  :  Expected 256  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 256  :  Expected 256  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 13, Current player is 0
-handCount for Player 0 77  :  Expected 76  :  FAIL
-Combined Deck and Discard for Player 0 343  :  Expected 345  :  FAIL
-Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
+handCount for Player 0 76  :  Expected 76  :  PASS
+Combined Deck and Discard for Player 0 345  :  Expected 345  :  PASS
+Top deck card for Player 0 curse  :  Expected not curse  :  FAIL
 handCount for Player 1 159  :  Expected 159  :  PASS
-Combined Deck and Discard for Player 1 338  :  Expected 339  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 339  :  Expected 339  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 153  :  Expected 153  :  PASS
-Combined Deck and Discard for Player 2 123  :  Expected 124  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 124  :  Expected 124  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 59  :  Expected 59  :  PASS
-Combined Deck and Discard for Player 3 356  :  Expected 357  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 357  :  Expected 357  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 14, Current player is 3
 handCount for Player 0 70  :  Expected 70  :  PASS
-Combined Deck and Discard for Player 0 198  :  Expected 199  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 199  :  Expected 199  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 88  :  Expected 88  :  PASS
-Combined Deck and Discard for Player 1 388  :  Expected 389  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 389  :  Expected 389  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 42  :  Expected 42  :  PASS
-Combined Deck and Discard for Player 2 336  :  Expected 337  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 317  :  Expected 316  :  FAIL
-Combined Deck and Discard for Player 3 162  :  Expected 164  :  FAIL
+Combined Deck and Discard for Player 2 337  :  Expected 337  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 316  :  Expected 316  :  PASS
+Combined Deck and Discard for Player 3 164  :  Expected 164  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 15, Current player is 3
 handCount for Player 0 53  :  Expected 53  :  PASS
-Combined Deck and Discard for Player 0 358  :  Expected 359  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 359  :  Expected 359  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 136  :  Expected 136  :  PASS
-Combined Deck and Discard for Player 1 345  :  Expected 346  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 346  :  Expected 346  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 273  :  Expected 273  :  PASS
-Combined Deck and Discard for Player 2 216  :  Expected 217  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 45  :  Expected 44  :  FAIL
-Combined Deck and Discard for Player 3 390  :  Expected 392  :  FAIL
+Combined Deck and Discard for Player 2 217  :  Expected 217  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 44  :  Expected 44  :  PASS
+Combined Deck and Discard for Player 3 392  :  Expected 392  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 16, Current player is 0
-handCount for Player 0 279  :  Expected 278  :  FAIL
-Combined Deck and Discard for Player 0 172  :  Expected 174  :  FAIL
+handCount for Player 0 278  :  Expected 278  :  PASS
+Combined Deck and Discard for Player 0 174  :  Expected 174  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 93  :  Expected 93  :  PASS
-Combined Deck and Discard for Player 1 398  :  Expected 399  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 399  :  Expected 399  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 8  :  Expected 8  :  PASS
-Combined Deck and Discard for Player 2 350  :  Expected 351  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 351  :  Expected 351  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 171  :  Expected 171  :  PASS
-Combined Deck and Discard for Player 3 213  :  Expected 214  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 214  :  Expected 214  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 17, Current player is 2
 handCount for Player 0 228  :  Expected 228  :  PASS
-Combined Deck and Discard for Player 0 240  :  Expected 241  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 241  :  Expected 241  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 44  :  Expected 44  :  PASS
-Combined Deck and Discard for Player 1 327  :  Expected 328  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 80  :  Expected 79  :  FAIL
-Combined Deck and Discard for Player 2 274  :  Expected 276  :  FAIL
+Combined Deck and Discard for Player 1 328  :  Expected 328  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 79  :  Expected 79  :  PASS
+Combined Deck and Discard for Player 2 276  :  Expected 276  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 20  :  Expected 20  :  PASS
-Combined Deck and Discard for Player 3 297  :  Expected 298  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 298  :  Expected 298  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 18, Current player is 3
 handCount for Player 0 149  :  Expected 149  :  PASS
-Combined Deck and Discard for Player 0 281  :  Expected 282  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 282  :  Expected 282  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 130  :  Expected 130  :  PASS
-Combined Deck and Discard for Player 1 242  :  Expected 243  :  FAIL
+Combined Deck and Discard for Player 1 243  :  Expected 243  :  PASS
 Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 169  :  Expected 169  :  PASS
-Combined Deck and Discard for Player 2 226  :  Expected 227  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 29  :  Expected 28  :  FAIL
-Combined Deck and Discard for Player 3 256  :  Expected 258  :  FAIL
+Combined Deck and Discard for Player 2 227  :  Expected 227  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 28  :  Expected 28  :  PASS
+Combined Deck and Discard for Player 3 258  :  Expected 258  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 19, Current player is 2
 handCount for Player 0 292  :  Expected 292  :  PASS
-Combined Deck and Discard for Player 0 139  :  Expected 140  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 140  :  Expected 140  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 206  :  Expected 206  :  PASS
-Combined Deck and Discard for Player 1 191  :  Expected 192  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 49  :  Expected 48  :  FAIL
-Combined Deck and Discard for Player 2 133  :  Expected 135  :  FAIL
+Combined Deck and Discard for Player 1 192  :  Expected 192  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 48  :  Expected 48  :  PASS
+Combined Deck and Discard for Player 2 135  :  Expected 135  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 91  :  Expected 91  :  PASS
-Combined Deck and Discard for Player 3 337  :  Expected 338  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 338  :  Expected 338  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 20, Current player is 0
-handCount for Player 0 81  :  Expected 80  :  FAIL
-Combined Deck and Discard for Player 0 360  :  Expected 362  :  FAIL
-Top deck card for Player 0 curse  :  Expected not curse  :  FAIL
+handCount for Player 0 80  :  Expected 80  :  PASS
+Combined Deck and Discard for Player 0 362  :  Expected 362  :  PASS
+Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 244  :  Expected 244  :  PASS
-Combined Deck and Discard for Player 1 146  :  Expected 147  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 147  :  Expected 147  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 40  :  Expected 40  :  PASS
-Combined Deck and Discard for Player 2 432  :  Expected 433  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 433  :  Expected 433  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 80  :  Expected 80  :  PASS
-Combined Deck and Discard for Player 3 272  :  Expected 273  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 273  :  Expected 273  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 21, Current player is 3
 handCount for Player 0 133  :  Expected 133  :  PASS
-Combined Deck and Discard for Player 0 228  :  Expected 229  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 229  :  Expected 229  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 158  :  Expected 158  :  PASS
-Combined Deck and Discard for Player 1 216  :  Expected 217  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 217  :  Expected 217  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 62  :  Expected 62  :  PASS
-Combined Deck and Discard for Player 2 376  :  Expected 377  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 123  :  Expected 122  :  FAIL
-Combined Deck and Discard for Player 3 362  :  Expected 364  :  FAIL
+Combined Deck and Discard for Player 2 377  :  Expected 377  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 122  :  Expected 122  :  PASS
+Combined Deck and Discard for Player 3 364  :  Expected 364  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 22, Current player is 0
-handCount for Player 0 85  :  Expected 84  :  FAIL
-Combined Deck and Discard for Player 0 199  :  Expected 201  :  FAIL
+handCount for Player 0 84  :  Expected 84  :  PASS
+Combined Deck and Discard for Player 0 201  :  Expected 201  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 64  :  Expected 64  :  PASS
-Combined Deck and Discard for Player 1 320  :  Expected 321  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 321  :  Expected 321  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 46  :  Expected 46  :  PASS
-Combined Deck and Discard for Player 2 304  :  Expected 305  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 305  :  Expected 305  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 465  :  Expected 465  :  PASS
-Combined Deck and Discard for Player 3 32  :  Expected 33  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 33  :  Expected 33  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 23, Current player is 2
 handCount for Player 0 40  :  Expected 40  :  PASS
-Combined Deck and Discard for Player 0 321  :  Expected 322  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 322  :  Expected 322  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 69  :  Expected 69  :  PASS
-Combined Deck and Discard for Player 1 196  :  Expected 197  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 24  :  Expected 23  :  FAIL
-Combined Deck and Discard for Player 2 100  :  Expected 102  :  FAIL
+Combined Deck and Discard for Player 1 197  :  Expected 197  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 23  :  Expected 23  :  PASS
+Combined Deck and Discard for Player 2 102  :  Expected 102  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 160  :  Expected 160  :  PASS
-Combined Deck and Discard for Player 3 289  :  Expected 290  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 290  :  Expected 290  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 24, Current player is 0
-handCount for Player 0 70  :  Expected 69  :  FAIL
-Combined Deck and Discard for Player 0 257  :  Expected 259  :  FAIL
+handCount for Player 0 69  :  Expected 69  :  PASS
+Combined Deck and Discard for Player 0 259  :  Expected 259  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 223  :  Expected 223  :  PASS
-Combined Deck and Discard for Player 1 167  :  Expected 168  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 168  :  Expected 168  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 253  :  Expected 253  :  PASS
-Combined Deck and Discard for Player 2 175  :  Expected 176  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 176  :  Expected 176  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 156  :  Expected 156  :  PASS
-Combined Deck and Discard for Player 3 233  :  Expected 234  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 234  :  Expected 234  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 25, Current player is 2
 handCount for Player 0 233  :  Expected 233  :  PASS
-Combined Deck and Discard for Player 0 206  :  Expected 207  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 207  :  Expected 207  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 91  :  Expected 91  :  PASS
-Combined Deck and Discard for Player 1 377  :  Expected 378  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 103  :  Expected 102  :  FAIL
-Combined Deck and Discard for Player 2 180  :  Expected 182  :  FAIL
+Combined Deck and Discard for Player 1 378  :  Expected 378  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 102  :  Expected 102  :  PASS
+Combined Deck and Discard for Player 2 182  :  Expected 182  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 225  :  Expected 225  :  PASS
-Combined Deck and Discard for Player 3 214  :  Expected 215  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 215  :  Expected 215  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 26, Current player is 1
 handCount for Player 0 271  :  Expected 271  :  PASS
-Combined Deck and Discard for Player 0 156  :  Expected 157  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 119  :  Expected 118  :  FAIL
-Combined Deck and Discard for Player 1 201  :  Expected 203  :  FAIL
+Combined Deck and Discard for Player 0 157  :  Expected 157  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 118  :  Expected 118  :  PASS
+Combined Deck and Discard for Player 1 203  :  Expected 203  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 35  :  Expected 35  :  PASS
-Combined Deck and Discard for Player 2 244  :  Expected 245  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 245  :  Expected 245  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 227  :  Expected 227  :  PASS
-Combined Deck and Discard for Player 3 257  :  Expected 258  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 258  :  Expected 258  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 27, Current player is 3
 handCount for Player 0 30  :  Expected 30  :  PASS
-Combined Deck and Discard for Player 0 55  :  Expected 56  :  FAIL
+Combined Deck and Discard for Player 0 56  :  Expected 56  :  PASS
 Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
 handCount for Player 1 56  :  Expected 56  :  PASS
-Combined Deck and Discard for Player 1 182  :  Expected 183  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 183  :  Expected 183  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 297  :  Expected 297  :  PASS
-Combined Deck and Discard for Player 2 163  :  Expected 164  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 254  :  Expected 253  :  FAIL
-Combined Deck and Discard for Player 3 185  :  Expected 187  :  FAIL
+Combined Deck and Discard for Player 2 164  :  Expected 164  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 -1  :  Expected 253  :  FAIL
+Combined Deck and Discard for Player 3 187  :  Expected 187  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 28, Current player is 2
 handCount for Player 0 242  :  Expected 242  :  PASS
-Combined Deck and Discard for Player 0 151  :  Expected 152  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 152  :  Expected 152  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 3  :  Expected 3  :  PASS
-Combined Deck and Discard for Player 1 483  :  Expected 484  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 32  :  Expected 31  :  FAIL
-Combined Deck and Discard for Player 2 358  :  Expected 360  :  FAIL
+Combined Deck and Discard for Player 1 484  :  Expected 484  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 31  :  Expected 31  :  PASS
+Combined Deck and Discard for Player 2 360  :  Expected 360  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 181  :  Expected 181  :  PASS
-Combined Deck and Discard for Player 3 164  :  Expected 165  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 165  :  Expected 165  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 29, Current player is 1
 handCount for Player 0 141  :  Expected 141  :  PASS
-Combined Deck and Discard for Player 0 316  :  Expected 317  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 237  :  Expected 236  :  FAIL
-Combined Deck and Discard for Player 1 252  :  Expected 254  :  FAIL
+Combined Deck and Discard for Player 0 317  :  Expected 317  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 236  :  Expected 236  :  PASS
+Combined Deck and Discard for Player 1 254  :  Expected 254  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 82  :  Expected 82  :  PASS
-Combined Deck and Discard for Player 2 147  :  Expected 148  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 148  :  Expected 148  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 203  :  Expected 203  :  PASS
-Combined Deck and Discard for Player 3 237  :  Expected 238  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 238  :  Expected 238  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 30, Current player is 0
-handCount for Player 0 30  :  Expected 29  :  FAIL
-Combined Deck and Discard for Player 0 380  :  Expected 382  :  FAIL
+handCount for Player 0 29  :  Expected 29  :  PASS
+Combined Deck and Discard for Player 0 382  :  Expected 382  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 243  :  Expected 243  :  PASS
-Combined Deck and Discard for Player 1 188  :  Expected 189  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 189  :  Expected 189  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 158  :  Expected 158  :  PASS
-Combined Deck and Discard for Player 2 262  :  Expected 263  :  FAIL
+Combined Deck and Discard for Player 2 263  :  Expected 263  :  PASS
 Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 37  :  Expected 37  :  PASS
-Combined Deck and Discard for Player 3 373  :  Expected 374  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 374  :  Expected 374  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 31, Current player is 2
 handCount for Player 0 53  :  Expected 53  :  PASS
-Combined Deck and Discard for Player 0 446  :  Expected 447  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 447  :  Expected 447  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 80  :  Expected 80  :  PASS
-Combined Deck and Discard for Player 1 294  :  Expected 295  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 145  :  Expected 144  :  FAIL
-Combined Deck and Discard for Player 2 301  :  Expected 303  :  FAIL
+Combined Deck and Discard for Player 1 295  :  Expected 295  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 144  :  Expected 144  :  PASS
+Combined Deck and Discard for Player 2 303  :  Expected 303  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 74  :  Expected 74  :  PASS
-Combined Deck and Discard for Player 3 228  :  Expected 229  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 229  :  Expected 229  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 32, Current player is 1
 handCount for Player 0 160  :  Expected 160  :  PASS
-Combined Deck and Discard for Player 0 181  :  Expected 182  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 346  :  Expected 345  :  FAIL
-Combined Deck and Discard for Player 1 90  :  Expected 92  :  FAIL
-Top deck card for Player 1 curse  :  Expected not curse  :  FAIL
+Combined Deck and Discard for Player 0 182  :  Expected 182  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 345  :  Expected 345  :  PASS
+Combined Deck and Discard for Player 1 92  :  Expected 92  :  PASS
+Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 202  :  Expected 202  :  PASS
-Combined Deck and Discard for Player 2 178  :  Expected 179  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 179  :  Expected 179  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 67  :  Expected 67  :  PASS
-Combined Deck and Discard for Player 3 286  :  Expected 287  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 287  :  Expected 287  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 33, Current player is 0
-handCount for Player 0 180  :  Expected 179  :  FAIL
-Combined Deck and Discard for Player 0 224  :  Expected 226  :  FAIL
+handCount for Player 0 179  :  Expected 179  :  PASS
+Combined Deck and Discard for Player 0 226  :  Expected 226  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 50  :  Expected 50  :  PASS
-Combined Deck and Discard for Player 1 261  :  Expected 262  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 262  :  Expected 262  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 168  :  Expected 168  :  PASS
-Combined Deck and Discard for Player 2 306  :  Expected 307  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 307  :  Expected 307  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 364  :  Expected 364  :  PASS
-Combined Deck and Discard for Player 3 87  :  Expected 88  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 88  :  Expected 88  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 34, Current player is 2
 handCount for Player 0 307  :  Expected 307  :  PASS
-Combined Deck and Discard for Player 0 128  :  Expected 129  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 129  :  Expected 129  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 126  :  Expected 126  :  PASS
-Combined Deck and Discard for Player 1 239  :  Expected 240  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 140  :  Expected 139  :  FAIL
-Combined Deck and Discard for Player 2 344  :  Expected 346  :  FAIL
+Combined Deck and Discard for Player 1 240  :  Expected 240  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 139  :  Expected 139  :  PASS
+Combined Deck and Discard for Player 2 346  :  Expected 346  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 58  :  Expected 58  :  PASS
-Combined Deck and Discard for Player 3 124  :  Expected 125  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 125  :  Expected 125  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 35, Current player is 3
 handCount for Player 0 6  :  Expected 6  :  PASS
-Combined Deck and Discard for Player 0 238  :  Expected 239  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 239  :  Expected 239  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 25  :  Expected 25  :  PASS
-Combined Deck and Discard for Player 1 307  :  Expected 308  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 308  :  Expected 308  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 174  :  Expected 174  :  PASS
-Combined Deck and Discard for Player 2 42  :  Expected 43  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 34  :  Expected 33  :  FAIL
-Combined Deck and Discard for Player 3 396  :  Expected 398  :  FAIL
+Combined Deck and Discard for Player 2 43  :  Expected 43  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 33  :  Expected 33  :  PASS
+Combined Deck and Discard for Player 3 398  :  Expected 398  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 36, Current player is 2
 handCount for Player 0 86  :  Expected 86  :  PASS
-Combined Deck and Discard for Player 0 353  :  Expected 354  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 354  :  Expected 354  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 109  :  Expected 109  :  PASS
-Combined Deck and Discard for Player 1 358  :  Expected 359  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 112  :  Expected 111  :  FAIL
-Combined Deck and Discard for Player 2 285  :  Expected 287  :  FAIL
-Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
+Combined Deck and Discard for Player 1 359  :  Expected 359  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 111  :  Expected 111  :  PASS
+Combined Deck and Discard for Player 2 287  :  Expected 287  :  PASS
+Top deck card for Player 2 curse  :  Expected not curse  :  FAIL
 handCount for Player 3 282  :  Expected 282  :  PASS
-Combined Deck and Discard for Player 3 57  :  Expected 58  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 58  :  Expected 58  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 37, Current player is 0
-handCount for Player 0 70  :  Expected 69  :  FAIL
-Combined Deck and Discard for Player 0 419  :  Expected 421  :  FAIL
+handCount for Player 0 69  :  Expected 69  :  PASS
+Combined Deck and Discard for Player 0 421  :  Expected 421  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 71  :  Expected 71  :  PASS
-Combined Deck and Discard for Player 1 270  :  Expected 271  :  FAIL
+Combined Deck and Discard for Player 1 271  :  Expected 271  :  PASS
 Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 84  :  Expected 84  :  PASS
-Combined Deck and Discard for Player 2 237  :  Expected 238  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 238  :  Expected 238  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 192  :  Expected 192  :  PASS
-Combined Deck and Discard for Player 3 87  :  Expected 88  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 88  :  Expected 88  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 38, Current player is 2
 handCount for Player 0 201  :  Expected 201  :  PASS
-Combined Deck and Discard for Player 0 267  :  Expected 268  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 268  :  Expected 268  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 86  :  Expected 86  :  PASS
-Combined Deck and Discard for Player 1 304  :  Expected 305  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 105  :  Expected 104  :  FAIL
-Combined Deck and Discard for Player 2 327  :  Expected 329  :  FAIL
+Combined Deck and Discard for Player 1 305  :  Expected 305  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 104  :  Expected 104  :  PASS
+Combined Deck and Discard for Player 2 329  :  Expected 329  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 178  :  Expected 178  :  PASS
-Combined Deck and Discard for Player 3 142  :  Expected 143  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 143  :  Expected 143  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 39, Current player is 1
 handCount for Player 0 24  :  Expected 24  :  PASS
-Combined Deck and Discard for Player 0 31  :  Expected 32  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 180  :  Expected 179  :  FAIL
-Combined Deck and Discard for Player 1 317  :  Expected 319  :  FAIL
+Combined Deck and Discard for Player 0 32  :  Expected 32  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 179  :  Expected 179  :  PASS
+Combined Deck and Discard for Player 1 319  :  Expected 319  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 74  :  Expected 74  :  PASS
-Combined Deck and Discard for Player 2 383  :  Expected 384  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 384  :  Expected 384  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 3  :  Expected 3  :  PASS
-Combined Deck and Discard for Player 3 492  :  Expected 493  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 493  :  Expected 493  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 40, Current player is 2
 handCount for Player 0 208  :  Expected 208  :  PASS
-Combined Deck and Discard for Player 0 100  :  Expected 101  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 101  :  Expected 101  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 15  :  Expected 15  :  PASS
-Combined Deck and Discard for Player 1 16  :  Expected 17  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 87  :  Expected 86  :  FAIL
-Combined Deck and Discard for Player 2 349  :  Expected 351  :  FAIL
+Combined Deck and Discard for Player 1 17  :  Expected 17  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 86  :  Expected 86  :  PASS
+Combined Deck and Discard for Player 2 351  :  Expected 351  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
-handCount for Player 3 114  :  Expected 114  :  PASS
-Combined Deck and Discard for Player 3 102  :  Expected 103  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+handCount for Player 3 0  :  Expected 114  :  FAIL
+Combined Deck and Discard for Player 3 103  :  Expected 103  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 41, Current player is 0
-handCount for Player 0 83  :  Expected 82  :  FAIL
-Combined Deck and Discard for Player 0 167  :  Expected 169  :  FAIL
+handCount for Player 0 82  :  Expected 82  :  PASS
+Combined Deck and Discard for Player 0 169  :  Expected 169  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 164  :  Expected 164  :  PASS
-Combined Deck and Discard for Player 1 280  :  Expected 281  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 281  :  Expected 281  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 32  :  Expected 32  :  PASS
-Combined Deck and Discard for Player 2 390  :  Expected 391  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 391  :  Expected 391  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 145  :  Expected 145  :  PASS
-Combined Deck and Discard for Player 3 209  :  Expected 210  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 210  :  Expected 210  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 42, Current player is 3
 handCount for Player 0 124  :  Expected 124  :  PASS
-Combined Deck and Discard for Player 0 143  :  Expected 144  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 144  :  Expected 144  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 70  :  Expected 70  :  PASS
-Combined Deck and Discard for Player 1 407  :  Expected 408  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 408  :  Expected 408  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 326  :  Expected 326  :  PASS
-Combined Deck and Discard for Player 2 109  :  Expected 110  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 116  :  Expected 115  :  FAIL
-Combined Deck and Discard for Player 3 227  :  Expected 229  :  FAIL
+Combined Deck and Discard for Player 2 110  :  Expected 110  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 3 229  :  Expected 229  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 43, Current player is 0
-handCount for Player 0 78  :  Expected 77  :  FAIL
-Combined Deck and Discard for Player 0 370  :  Expected 372  :  FAIL
+handCount for Player 0 77  :  Expected 77  :  PASS
+Combined Deck and Discard for Player 0 372  :  Expected 372  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 37  :  Expected 37  :  PASS
-Combined Deck and Discard for Player 1 286  :  Expected 287  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 287  :  Expected 287  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 90  :  Expected 90  :  PASS
-Combined Deck and Discard for Player 2 241  :  Expected 242  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 242  :  Expected 242  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 301  :  Expected 301  :  PASS
-Combined Deck and Discard for Player 3 126  :  Expected 127  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 127  :  Expected 127  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 44, Current player is 0
-handCount for Player 0 14  :  Expected 13  :  FAIL
-Combined Deck and Discard for Player 0 392  :  Expected 394  :  FAIL
+handCount for Player 0 13  :  Expected 13  :  PASS
+Combined Deck and Discard for Player 0 394  :  Expected 394  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 246  :  Expected 246  :  PASS
-Combined Deck and Discard for Player 1 141  :  Expected 142  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 142  :  Expected 142  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 254  :  Expected 254  :  PASS
-Combined Deck and Discard for Player 2 198  :  Expected 199  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 199  :  Expected 199  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 59  :  Expected 59  :  PASS
-Combined Deck and Discard for Player 3 215  :  Expected 216  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 216  :  Expected 216  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 45, Current player is 3
 handCount for Player 0 261  :  Expected 261  :  PASS
-Combined Deck and Discard for Player 0 185  :  Expected 186  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 186  :  Expected 186  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 313  :  Expected 313  :  PASS
-Combined Deck and Discard for Player 1 15  :  Expected 16  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 16  :  Expected 16  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 190  :  Expected 190  :  PASS
-Combined Deck and Discard for Player 2 298  :  Expected 299  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 58  :  Expected 57  :  FAIL
-Combined Deck and Discard for Player 3 213  :  Expected 215  :  FAIL
+Combined Deck and Discard for Player 2 299  :  Expected 299  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 57  :  Expected 57  :  PASS
+Combined Deck and Discard for Player 3 215  :  Expected 215  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 46, Current player is 0
-handCount for Player 0 88  :  Expected 87  :  FAIL
-Combined Deck and Discard for Player 0 405  :  Expected 407  :  FAIL
+handCount for Player 0 87  :  Expected 87  :  PASS
+Combined Deck and Discard for Player 0 407  :  Expected 407  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 232  :  Expected 232  :  PASS
-Combined Deck and Discard for Player 1 249  :  Expected 250  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 250  :  Expected 250  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 33  :  Expected 33  :  PASS
-Combined Deck and Discard for Player 2 385  :  Expected 386  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 386  :  Expected 386  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 278  :  Expected 278  :  PASS
-Combined Deck and Discard for Player 3 142  :  Expected 143  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 143  :  Expected 143  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 47, Current player is 0
-handCount for Player 0 67  :  Expected 66  :  FAIL
-Combined Deck and Discard for Player 0 97  :  Expected 99  :  FAIL
+handCount for Player 0 66  :  Expected 66  :  PASS
+Combined Deck and Discard for Player 0 99  :  Expected 99  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 18  :  Expected 18  :  PASS
-Combined Deck and Discard for Player 1 319  :  Expected 320  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 320  :  Expected 320  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 98  :  Expected 98  :  PASS
-Combined Deck and Discard for Player 2 324  :  Expected 325  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 325  :  Expected 325  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 109  :  Expected 109  :  PASS
-Combined Deck and Discard for Player 3 92  :  Expected 93  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 93  :  Expected 93  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 48, Current player is 1
 handCount for Player 0 91  :  Expected 91  :  PASS
-Combined Deck and Discard for Player 0 386  :  Expected 387  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 98  :  Expected 97  :  FAIL
-Combined Deck and Discard for Player 1 320  :  Expected 322  :  FAIL
+Combined Deck and Discard for Player 0 387  :  Expected 387  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 97  :  Expected 97  :  PASS
+Combined Deck and Discard for Player 1 322  :  Expected 322  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 25  :  Expected 25  :  PASS
-Combined Deck and Discard for Player 2 343  :  Expected 344  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 344  :  Expected 344  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 36  :  Expected 36  :  PASS
-Combined Deck and Discard for Player 3 438  :  Expected 439  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 439  :  Expected 439  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 49, Current player is 3
 handCount for Player 0 79  :  Expected 79  :  PASS
-Combined Deck and Discard for Player 0 214  :  Expected 215  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 215  :  Expected 215  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 50  :  Expected 50  :  PASS
-Combined Deck and Discard for Player 1 314  :  Expected 315  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 315  :  Expected 315  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 270  :  Expected 270  :  PASS
-Combined Deck and Discard for Player 2 164  :  Expected 165  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 185  :  Expected 184  :  FAIL
-Combined Deck and Discard for Player 3 196  :  Expected 198  :  FAIL
+Combined Deck and Discard for Player 2 165  :  Expected 165  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 184  :  Expected 184  :  PASS
+Combined Deck and Discard for Player 3 198  :  Expected 198  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 50, Current player is 0
-handCount for Player 0 89  :  Expected 88  :  FAIL
-Combined Deck and Discard for Player 0 338  :  Expected 340  :  FAIL
+handCount for Player 0 88  :  Expected 88  :  PASS
+Combined Deck and Discard for Player 0 340  :  Expected 340  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 153  :  Expected 153  :  PASS
-Combined Deck and Discard for Player 1 259  :  Expected 260  :  FAIL
+Combined Deck and Discard for Player 1 260  :  Expected 260  :  PASS
 Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 167  :  Expected 167  :  PASS
-Combined Deck and Discard for Player 2 296  :  Expected 297  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 297  :  Expected 297  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 154  :  Expected 154  :  PASS
-Combined Deck and Discard for Player 3 292  :  Expected 293  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 293  :  Expected 293  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 51, Current player is 0
-handCount for Player 0 227  :  Expected 226  :  FAIL
-Combined Deck and Discard for Player 0 246  :  Expected 248  :  FAIL
+handCount for Player 0 226  :  Expected 226  :  PASS
+Combined Deck and Discard for Player 0 248  :  Expected 248  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 297  :  Expected 297  :  PASS
-Combined Deck and Discard for Player 1 120  :  Expected 121  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 121  :  Expected 121  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 230  :  Expected 230  :  PASS
-Combined Deck and Discard for Player 2 95  :  Expected 96  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 96  :  Expected 96  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 241  :  Expected 241  :  PASS
-Combined Deck and Discard for Player 3 83  :  Expected 84  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 84  :  Expected 84  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 52, Current player is 3
 handCount for Player 0 115  :  Expected 115  :  PASS
-Combined Deck and Discard for Player 0 374  :  Expected 375  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 375  :  Expected 375  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 211  :  Expected 211  :  PASS
-Combined Deck and Discard for Player 1 274  :  Expected 275  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 275  :  Expected 275  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 11  :  Expected 11  :  PASS
-Combined Deck and Discard for Player 2 143  :  Expected 144  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 59  :  Expected 58  :  FAIL
-Combined Deck and Discard for Player 3 217  :  Expected 219  :  FAIL
+Combined Deck and Discard for Player 2 144  :  Expected 144  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 58  :  Expected 58  :  PASS
+Combined Deck and Discard for Player 3 219  :  Expected 219  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 53, Current player is 0
-handCount for Player 0 363  :  Expected 362  :  FAIL
-Combined Deck and Discard for Player 0 120  :  Expected 122  :  FAIL
+handCount for Player 0 362  :  Expected 362  :  PASS
+Combined Deck and Discard for Player 0 122  :  Expected 122  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 235  :  Expected 235  :  PASS
-Combined Deck and Discard for Player 1 217  :  Expected 218  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 218  :  Expected 218  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 167  :  Expected 167  :  PASS
-Combined Deck and Discard for Player 2 135  :  Expected 136  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 136  :  Expected 136  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 148  :  Expected 148  :  PASS
-Combined Deck and Discard for Player 3 159  :  Expected 160  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 160  :  Expected 160  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 54, Current player is 2
 handCount for Player 0 104  :  Expected 104  :  PASS
-Combined Deck and Discard for Player 0 249  :  Expected 250  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 250  :  Expected 250  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 12  :  Expected 12  :  PASS
-Combined Deck and Discard for Player 1 146  :  Expected 147  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 270  :  Expected 269  :  FAIL
-Combined Deck and Discard for Player 2 212  :  Expected 214  :  FAIL
-Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
+Combined Deck and Discard for Player 1 147  :  Expected 147  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 269  :  Expected 269  :  PASS
+Combined Deck and Discard for Player 2 214  :  Expected 214  :  PASS
+Top deck card for Player 2 curse  :  Expected not curse  :  FAIL
 handCount for Player 3 250  :  Expected 250  :  PASS
-Combined Deck and Discard for Player 3 213  :  Expected 214  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 214  :  Expected 214  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 55, Current player is 2
 handCount for Player 0 22  :  Expected 22  :  PASS
-Combined Deck and Discard for Player 0 293  :  Expected 294  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 294  :  Expected 294  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 43  :  Expected 43  :  PASS
-Combined Deck and Discard for Player 1 405  :  Expected 406  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 239  :  Expected 238  :  FAIL
-Combined Deck and Discard for Player 2 199  :  Expected 201  :  FAIL
+Combined Deck and Discard for Player 1 406  :  Expected 406  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 238  :  Expected 238  :  PASS
+Combined Deck and Discard for Player 2 201  :  Expected 201  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 136  :  Expected 136  :  PASS
-Combined Deck and Discard for Player 3 147  :  Expected 148  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 148  :  Expected 148  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 56, Current player is 2
 handCount for Player 0 202  :  Expected 202  :  PASS
-Combined Deck and Discard for Player 0 253  :  Expected 254  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 254  :  Expected 254  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 181  :  Expected 181  :  PASS
-Combined Deck and Discard for Player 1 283  :  Expected 284  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 22  :  Expected 21  :  FAIL
-Combined Deck and Discard for Player 2 474  :  Expected 476  :  FAIL
+Combined Deck and Discard for Player 1 284  :  Expected 284  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 21  :  Expected 21  :  PASS
+Combined Deck and Discard for Player 2 476  :  Expected 476  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 50  :  Expected 50  :  PASS
-Combined Deck and Discard for Player 3 357  :  Expected 358  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 358  :  Expected 358  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 57, Current player is 0
-handCount for Player 0 109  :  Expected 108  :  FAIL
-Combined Deck and Discard for Player 0 207  :  Expected 209  :  FAIL
+handCount for Player 0 108  :  Expected 108  :  PASS
+Combined Deck and Discard for Player 0 209  :  Expected 209  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 71  :  Expected 71  :  PASS
-Combined Deck and Discard for Player 1 312  :  Expected 313  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 313  :  Expected 313  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 40  :  Expected 40  :  PASS
-Combined Deck and Discard for Player 2 353  :  Expected 354  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 354  :  Expected 354  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 141  :  Expected 141  :  PASS
-Combined Deck and Discard for Player 3 112  :  Expected 113  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 113  :  Expected 113  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 58, Current player is 2
 handCount for Player 0 118  :  Expected 118  :  PASS
-Combined Deck and Discard for Player 0 339  :  Expected 340  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 340  :  Expected 340  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 25  :  Expected 25  :  PASS
-Combined Deck and Discard for Player 1 111  :  Expected 112  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 298  :  Expected 297  :  FAIL
-Combined Deck and Discard for Player 2 167  :  Expected 169  :  FAIL
+Combined Deck and Discard for Player 1 112  :  Expected 112  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 297  :  Expected 297  :  PASS
+Combined Deck and Discard for Player 2 169  :  Expected 169  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 141  :  Expected 141  :  PASS
-Combined Deck and Discard for Player 3 217  :  Expected 218  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 218  :  Expected 218  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 59, Current player is 3
 handCount for Player 0 246  :  Expected 246  :  PASS
-Combined Deck and Discard for Player 0 138  :  Expected 139  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 139  :  Expected 139  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 222  :  Expected 222  :  PASS
-Combined Deck and Discard for Player 1 252  :  Expected 253  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 253  :  Expected 253  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 8  :  Expected 8  :  PASS
-Combined Deck and Discard for Player 2 93  :  Expected 94  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 86  :  Expected 85  :  FAIL
-Combined Deck and Discard for Player 3 49  :  Expected 51  :  FAIL
+Combined Deck and Discard for Player 2 94  :  Expected 94  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 85  :  Expected 85  :  PASS
+Combined Deck and Discard for Player 3 51  :  Expected 51  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 60, Current player is 3
 handCount for Player 0 2  :  Expected 2  :  PASS
-Combined Deck and Discard for Player 0 164  :  Expected 165  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 165  :  Expected 165  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 31  :  Expected 31  :  PASS
-Combined Deck and Discard for Player 1 177  :  Expected 178  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 178  :  Expected 178  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 44  :  Expected 44  :  PASS
-Combined Deck and Discard for Player 2 297  :  Expected 298  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 278  :  Expected 277  :  FAIL
-Combined Deck and Discard for Player 3 192  :  Expected 194  :  FAIL
+Combined Deck and Discard for Player 2 298  :  Expected 298  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 277  :  Expected 277  :  PASS
+Combined Deck and Discard for Player 3 194  :  Expected 194  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 61, Current player is 0
-handCount for Player 0 16  :  Expected 15  :  FAIL
-Combined Deck and Discard for Player 0 456  :  Expected 458  :  FAIL
+handCount for Player 0 15  :  Expected 15  :  PASS
+Combined Deck and Discard for Player 0 458  :  Expected 458  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 113  :  Expected 113  :  PASS
-Combined Deck and Discard for Player 1 332  :  Expected 333  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 333  :  Expected 333  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 158  :  Expected 158  :  PASS
-Combined Deck and Discard for Player 2 312  :  Expected 313  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 313  :  Expected 313  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 110  :  Expected 110  :  PASS
-Combined Deck and Discard for Player 3 270  :  Expected 271  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 271  :  Expected 271  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 62, Current player is 3
 handCount for Player 0 212  :  Expected 212  :  PASS
-Combined Deck and Discard for Player 0 107  :  Expected 108  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 108  :  Expected 108  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 42  :  Expected 42  :  PASS
-Combined Deck and Discard for Player 1 427  :  Expected 428  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 428  :  Expected 428  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 137  :  Expected 137  :  PASS
-Combined Deck and Discard for Player 2 269  :  Expected 270  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 87  :  Expected 86  :  FAIL
-Combined Deck and Discard for Player 3 239  :  Expected 241  :  FAIL
+Combined Deck and Discard for Player 2 270  :  Expected 270  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 86  :  Expected 86  :  PASS
+Combined Deck and Discard for Player 3 241  :  Expected 241  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 63, Current player is 0
-handCount for Player 0 108  :  Expected 107  :  FAIL
-Combined Deck and Discard for Player 0 261  :  Expected 263  :  FAIL
+handCount for Player 0 107  :  Expected 107  :  PASS
+Combined Deck and Discard for Player 0 263  :  Expected 263  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 3  :  Expected 3  :  PASS
-Combined Deck and Discard for Player 1 263  :  Expected 264  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 264  :  Expected 264  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 220  :  Expected 220  :  PASS
-Combined Deck and Discard for Player 2 268  :  Expected 269  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 269  :  Expected 269  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 206  :  Expected 206  :  PASS
-Combined Deck and Discard for Player 3 208  :  Expected 209  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 209  :  Expected 209  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 64, Current player is 1
 handCount for Player 0 153  :  Expected 153  :  PASS
-Combined Deck and Discard for Player 0 276  :  Expected 277  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 76  :  Expected 75  :  FAIL
-Combined Deck and Discard for Player 1 200  :  Expected 202  :  FAIL
+Combined Deck and Discard for Player 0 277  :  Expected 277  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 75  :  Expected 75  :  PASS
+Combined Deck and Discard for Player 1 202  :  Expected 202  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 74  :  Expected 74  :  PASS
-Combined Deck and Discard for Player 2 223  :  Expected 224  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 224  :  Expected 224  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 92  :  Expected 92  :  PASS
-Combined Deck and Discard for Player 3 264  :  Expected 265  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 265  :  Expected 265  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 65, Current player is 2
 handCount for Player 0 94  :  Expected 94  :  PASS
-Combined Deck and Discard for Player 0 312  :  Expected 313  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 313  :  Expected 313  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 3  :  Expected 3  :  PASS
-Combined Deck and Discard for Player 1 442  :  Expected 443  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 138  :  Expected 137  :  FAIL
-Combined Deck and Discard for Player 2 262  :  Expected 264  :  FAIL
+Combined Deck and Discard for Player 1 443  :  Expected 443  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 137  :  Expected 137  :  PASS
+Combined Deck and Discard for Player 2 264  :  Expected 264  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 83  :  Expected 83  :  PASS
-Combined Deck and Discard for Player 3 392  :  Expected 393  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 393  :  Expected 393  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 66, Current player is 2
 handCount for Player 0 50  :  Expected 50  :  PASS
-Combined Deck and Discard for Player 0 225  :  Expected 226  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 226  :  Expected 226  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 187  :  Expected 187  :  PASS
-Combined Deck and Discard for Player 1 42  :  Expected 43  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 171  :  Expected 170  :  FAIL
-Combined Deck and Discard for Player 2 274  :  Expected 276  :  FAIL
+Combined Deck and Discard for Player 1 43  :  Expected 43  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 170  :  Expected 170  :  PASS
+Combined Deck and Discard for Player 2 276  :  Expected 276  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 291  :  Expected 291  :  PASS
-Combined Deck and Discard for Player 3 111  :  Expected 112  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 112  :  Expected 112  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 67, Current player is 1
 handCount for Player 0 11  :  Expected 11  :  PASS
-Combined Deck and Discard for Player 0 313  :  Expected 314  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 83  :  Expected 82  :  FAIL
-Combined Deck and Discard for Player 1 303  :  Expected 305  :  FAIL
+Combined Deck and Discard for Player 0 314  :  Expected 314  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 82  :  Expected 82  :  PASS
+Combined Deck and Discard for Player 1 305  :  Expected 305  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 85  :  Expected 85  :  PASS
-Combined Deck and Discard for Player 2 237  :  Expected 238  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 238  :  Expected 238  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 236  :  Expected 236  :  PASS
-Combined Deck and Discard for Player 3 203  :  Expected 204  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 204  :  Expected 204  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 68, Current player is 0
-handCount for Player 0 11  :  Expected 10  :  FAIL
-Combined Deck and Discard for Player 0 317  :  Expected 319  :  FAIL
+handCount for Player 0 10  :  Expected 10  :  PASS
+Combined Deck and Discard for Player 0 319  :  Expected 319  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 47  :  Expected 47  :  PASS
-Combined Deck and Discard for Player 1 435  :  Expected 436  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 436  :  Expected 436  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 39  :  Expected 39  :  PASS
-Combined Deck and Discard for Player 2 263  :  Expected 264  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 264  :  Expected 264  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 102  :  Expected 102  :  PASS
-Combined Deck and Discard for Player 3 362  :  Expected 363  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 363  :  Expected 363  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 69, Current player is 1
 handCount for Player 0 240  :  Expected 240  :  PASS
-Combined Deck and Discard for Player 0 211  :  Expected 212  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 175  :  Expected 174  :  FAIL
-Combined Deck and Discard for Player 1 179  :  Expected 181  :  FAIL
+Combined Deck and Discard for Player 0 212  :  Expected 212  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 174  :  Expected 174  :  PASS
+Combined Deck and Discard for Player 1 181  :  Expected 181  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 347  :  Expected 347  :  PASS
-Combined Deck and Discard for Player 2 57  :  Expected 58  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 58  :  Expected 58  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 25  :  Expected 25  :  PASS
-Combined Deck and Discard for Player 3 235  :  Expected 236  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 236  :  Expected 236  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 70, Current player is 0
-handCount for Player 0 33  :  Expected 32  :  FAIL
-Combined Deck and Discard for Player 0 229  :  Expected 231  :  FAIL
+handCount for Player 0 32  :  Expected 32  :  PASS
+Combined Deck and Discard for Player 0 231  :  Expected 231  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 101  :  Expected 101  :  PASS
-Combined Deck and Discard for Player 1 269  :  Expected 270  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 270  :  Expected 270  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 124  :  Expected 124  :  PASS
-Combined Deck and Discard for Player 2 273  :  Expected 274  :  FAIL
+Combined Deck and Discard for Player 2 274  :  Expected 274  :  PASS
 Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 119  :  Expected 119  :  PASS
-Combined Deck and Discard for Player 3 300  :  Expected 301  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 301  :  Expected 301  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 71, Current player is 2
 handCount for Player 0 9  :  Expected 9  :  PASS
-Combined Deck and Discard for Player 0 41  :  Expected 42  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 42  :  Expected 42  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 0  :  Expected 0  :  PASS
-Combined Deck and Discard for Player 1 355  :  Expected 356  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 190  :  Expected 189  :  FAIL
-Combined Deck and Discard for Player 2 40  :  Expected 42  :  FAIL
-Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
+Combined Deck and Discard for Player 1 356  :  Expected 356  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 189  :  Expected 189  :  PASS
+Combined Deck and Discard for Player 2 42  :  Expected 42  :  PASS
+Top deck card for Player 2 curse  :  Expected not curse  :  FAIL
 handCount for Player 3 43  :  Expected 43  :  PASS
-Combined Deck and Discard for Player 3 405  :  Expected 406  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 406  :  Expected 406  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 72, Current player is 0
-handCount for Player 0 380  :  Expected 379  :  FAIL
-Combined Deck and Discard for Player 0 91  :  Expected 93  :  FAIL
+handCount for Player 0 379  :  Expected 379  :  PASS
+Combined Deck and Discard for Player 0 93  :  Expected 93  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 38  :  Expected 38  :  PASS
-Combined Deck and Discard for Player 1 451  :  Expected 452  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 452  :  Expected 452  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 70  :  Expected 70  :  PASS
-Combined Deck and Discard for Player 2 402  :  Expected 403  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 403  :  Expected 403  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 88  :  Expected 88  :  PASS
-Combined Deck and Discard for Player 3 286  :  Expected 287  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 287  :  Expected 287  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 73, Current player is 1
 handCount for Player 0 112  :  Expected 112  :  PASS
-Combined Deck and Discard for Player 0 342  :  Expected 343  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 129  :  Expected 128  :  FAIL
-Combined Deck and Discard for Player 1 294  :  Expected 296  :  FAIL
+Combined Deck and Discard for Player 0 343  :  Expected 343  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 128  :  Expected 128  :  PASS
+Combined Deck and Discard for Player 1 296  :  Expected 296  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 18  :  Expected 18  :  PASS
-Combined Deck and Discard for Player 2 303  :  Expected 304  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 304  :  Expected 304  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 123  :  Expected 123  :  PASS
-Combined Deck and Discard for Player 3 210  :  Expected 211  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 211  :  Expected 211  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 74, Current player is 3
 handCount for Player 0 325  :  Expected 325  :  PASS
-Combined Deck and Discard for Player 0 68  :  Expected 69  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 69  :  Expected 69  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 250  :  Expected 250  :  PASS
-Combined Deck and Discard for Player 1 194  :  Expected 195  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 195  :  Expected 195  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 117  :  Expected 117  :  PASS
-Combined Deck and Discard for Player 2 307  :  Expected 308  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 122  :  Expected 121  :  FAIL
-Combined Deck and Discard for Player 3 217  :  Expected 219  :  FAIL
+Combined Deck and Discard for Player 2 308  :  Expected 308  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 121  :  Expected 121  :  PASS
+Combined Deck and Discard for Player 3 219  :  Expected 219  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 75, Current player is 2
 handCount for Player 0 113  :  Expected 113  :  PASS
-Combined Deck and Discard for Player 0 235  :  Expected 236  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 236  :  Expected 236  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 263  :  Expected 263  :  PASS
-Combined Deck and Discard for Player 1 102  :  Expected 103  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 174  :  Expected 173  :  FAIL
-Combined Deck and Discard for Player 2 302  :  Expected 304  :  FAIL
+Combined Deck and Discard for Player 1 103  :  Expected 103  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 173  :  Expected 173  :  PASS
+Combined Deck and Discard for Player 2 304  :  Expected 304  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 165  :  Expected 165  :  PASS
-Combined Deck and Discard for Player 3 172  :  Expected 173  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 173  :  Expected 173  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 76, Current player is 1
 handCount for Player 0 79  :  Expected 79  :  PASS
-Combined Deck and Discard for Player 0 168  :  Expected 169  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 18  :  Expected 17  :  FAIL
-Combined Deck and Discard for Player 1 462  :  Expected 464  :  FAIL
+Combined Deck and Discard for Player 0 169  :  Expected 169  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 17  :  Expected 17  :  PASS
+Combined Deck and Discard for Player 1 464  :  Expected 464  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 99  :  Expected 99  :  PASS
-Combined Deck and Discard for Player 2 361  :  Expected 362  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 362  :  Expected 362  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 129  :  Expected 129  :  PASS
-Combined Deck and Discard for Player 3 369  :  Expected 370  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 370  :  Expected 370  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 77, Current player is 0
-handCount for Player 0 404  :  Expected 403  :  FAIL
-Combined Deck and Discard for Player 0 86  :  Expected 88  :  FAIL
+handCount for Player 0 403  :  Expected 403  :  PASS
+Combined Deck and Discard for Player 0 88  :  Expected 88  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 149  :  Expected 149  :  PASS
-Combined Deck and Discard for Player 1 321  :  Expected 322  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 322  :  Expected 322  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 40  :  Expected 40  :  PASS
-Combined Deck and Discard for Player 2 170  :  Expected 171  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 171  :  Expected 171  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 331  :  Expected 331  :  PASS
-Combined Deck and Discard for Player 3 152  :  Expected 153  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 153  :  Expected 153  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 78, Current player is 1
 handCount for Player 0 281  :  Expected 281  :  PASS
-Combined Deck and Discard for Player 0 204  :  Expected 205  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 96  :  Expected 95  :  FAIL
-Combined Deck and Discard for Player 1 149  :  Expected 151  :  FAIL
+Combined Deck and Discard for Player 0 205  :  Expected 205  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 95  :  Expected 95  :  PASS
+Combined Deck and Discard for Player 1 151  :  Expected 151  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 180  :  Expected 180  :  PASS
-Combined Deck and Discard for Player 2 182  :  Expected 183  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 183  :  Expected 183  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 315  :  Expected 315  :  PASS
-Combined Deck and Discard for Player 3 146  :  Expected 147  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 147  :  Expected 147  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 79, Current player is 0
-handCount for Player 0 2  :  Expected 1  :  FAIL
-Combined Deck and Discard for Player 0 72  :  Expected 74  :  FAIL
+handCount for Player 0 1  :  Expected 1  :  PASS
+Combined Deck and Discard for Player 0 74  :  Expected 74  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 22  :  Expected 22  :  PASS
-Combined Deck and Discard for Player 1 321  :  Expected 322  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 322  :  Expected 322  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 283  :  Expected 283  :  PASS
-Combined Deck and Discard for Player 2 146  :  Expected 147  :  FAIL
+Combined Deck and Discard for Player 2 147  :  Expected 147  :  PASS
 Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 96  :  Expected 96  :  PASS
-Combined Deck and Discard for Player 3 137  :  Expected 138  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 138  :  Expected 138  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 80, Current player is 1
 handCount for Player 0 73  :  Expected 73  :  PASS
-Combined Deck and Discard for Player 0 377  :  Expected 378  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 276  :  Expected 275  :  FAIL
-Combined Deck and Discard for Player 1 71  :  Expected 73  :  FAIL
-Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
+Combined Deck and Discard for Player 0 378  :  Expected 378  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 275  :  Expected 275  :  PASS
+Combined Deck and Discard for Player 1 73  :  Expected 73  :  PASS
+Top deck card for Player 1 curse  :  Expected not curse  :  FAIL
 handCount for Player 2 81  :  Expected 81  :  PASS
-Combined Deck and Discard for Player 2 290  :  Expected 291  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 291  :  Expected 291  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 74  :  Expected 74  :  PASS
-Combined Deck and Discard for Player 3 88  :  Expected 89  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 89  :  Expected 89  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 81, Current player is 2
 handCount for Player 0 24  :  Expected 24  :  PASS
-Combined Deck and Discard for Player 0 245  :  Expected 246  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 246  :  Expected 246  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 129  :  Expected 129  :  PASS
-Combined Deck and Discard for Player 1 141  :  Expected 142  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 159  :  Expected 158  :  FAIL
-Combined Deck and Discard for Player 2 248  :  Expected 250  :  FAIL
+Combined Deck and Discard for Player 1 142  :  Expected 142  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 158  :  Expected 158  :  PASS
+Combined Deck and Discard for Player 2 250  :  Expected 250  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 118  :  Expected 118  :  PASS
-Combined Deck and Discard for Player 3 119  :  Expected 120  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 120  :  Expected 120  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 82, Current player is 0
-handCount for Player 0 56  :  Expected 55  :  FAIL
-Combined Deck and Discard for Player 0 430  :  Expected 432  :  FAIL
+handCount for Player 0 55  :  Expected 55  :  PASS
+Combined Deck and Discard for Player 0 432  :  Expected 432  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 11  :  Expected 11  :  PASS
-Combined Deck and Discard for Player 1 185  :  Expected 186  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 186  :  Expected 186  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 37  :  Expected 37  :  PASS
-Combined Deck and Discard for Player 2 286  :  Expected 287  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 287  :  Expected 287  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 181  :  Expected 181  :  PASS
-Combined Deck and Discard for Player 3 212  :  Expected 213  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 213  :  Expected 213  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 83, Current player is 3
 handCount for Player 0 80  :  Expected 80  :  PASS
-Combined Deck and Discard for Player 0 339  :  Expected 340  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 340  :  Expected 340  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 105  :  Expected 105  :  PASS
-Combined Deck and Discard for Player 1 259  :  Expected 260  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 260  :  Expected 260  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 99  :  Expected 99  :  PASS
-Combined Deck and Discard for Player 2 143  :  Expected 144  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 73  :  Expected 72  :  FAIL
-Combined Deck and Discard for Player 3 404  :  Expected 406  :  FAIL
+Combined Deck and Discard for Player 2 144  :  Expected 144  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 72  :  Expected 72  :  PASS
+Combined Deck and Discard for Player 3 406  :  Expected 406  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 84, Current player is 3
 handCount for Player 0 21  :  Expected 21  :  PASS
-Combined Deck and Discard for Player 0 340  :  Expected 341  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 341  :  Expected 341  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 101  :  Expected 101  :  PASS
-Combined Deck and Discard for Player 1 273  :  Expected 274  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 274  :  Expected 274  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 307  :  Expected 307  :  PASS
-Combined Deck and Discard for Player 2 170  :  Expected 171  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 14  :  Expected 13  :  FAIL
-Combined Deck and Discard for Player 3 378  :  Expected 380  :  FAIL
+Combined Deck and Discard for Player 2 171  :  Expected 171  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 13  :  Expected 13  :  PASS
+Combined Deck and Discard for Player 3 380  :  Expected 380  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 85, Current player is 1
 handCount for Player 0 280  :  Expected 280  :  PASS
-Combined Deck and Discard for Player 0 218  :  Expected 219  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 220  :  Expected 219  :  FAIL
-Combined Deck and Discard for Player 1 153  :  Expected 155  :  FAIL
+Combined Deck and Discard for Player 0 219  :  Expected 219  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 219  :  Expected 219  :  PASS
+Combined Deck and Discard for Player 1 155  :  Expected 155  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 218  :  Expected 218  :  PASS
-Combined Deck and Discard for Player 2 154  :  Expected 155  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 155  :  Expected 155  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 277  :  Expected 277  :  PASS
-Combined Deck and Discard for Player 3 63  :  Expected 64  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 64  :  Expected 64  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 86, Current player is 2
 handCount for Player 0 200  :  Expected 200  :  PASS
-Combined Deck and Discard for Player 0 182  :  Expected 183  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 183  :  Expected 183  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 65  :  Expected 65  :  PASS
-Combined Deck and Discard for Player 1 296  :  Expected 297  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 155  :  Expected 154  :  FAIL
-Combined Deck and Discard for Player 2 309  :  Expected 311  :  FAIL
+Combined Deck and Discard for Player 1 297  :  Expected 297  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 154  :  Expected 154  :  PASS
+Combined Deck and Discard for Player 2 311  :  Expected 311  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 280  :  Expected 280  :  PASS
-Combined Deck and Discard for Player 3 126  :  Expected 127  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 127  :  Expected 127  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 87, Current player is 0
-handCount for Player 0 73  :  Expected 72  :  FAIL
-Combined Deck and Discard for Player 0 305  :  Expected 307  :  FAIL
+handCount for Player 0 72  :  Expected 72  :  PASS
+Combined Deck and Discard for Player 0 307  :  Expected 307  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 62  :  Expected 62  :  PASS
-Combined Deck and Discard for Player 1 57  :  Expected 58  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 58  :  Expected 58  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 72  :  Expected 72  :  PASS
-Combined Deck and Discard for Player 2 312  :  Expected 313  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 313  :  Expected 313  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 64  :  Expected 64  :  PASS
-Combined Deck and Discard for Player 3 360  :  Expected 361  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 361  :  Expected 361  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 88, Current player is 0
-handCount for Player 0 15  :  Expected 14  :  FAIL
-Combined Deck and Discard for Player 0 291  :  Expected 293  :  FAIL
+handCount for Player 0 14  :  Expected 14  :  PASS
+Combined Deck and Discard for Player 0 293  :  Expected 293  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 185  :  Expected 185  :  PASS
-Combined Deck and Discard for Player 1 256  :  Expected 257  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 257  :  Expected 257  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 198  :  Expected 198  :  PASS
-Combined Deck and Discard for Player 2 296  :  Expected 297  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 297  :  Expected 297  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 145  :  Expected 145  :  PASS
-Combined Deck and Discard for Player 3 238  :  Expected 239  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 239  :  Expected 239  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 89, Current player is 3
 handCount for Player 0 27  :  Expected 27  :  PASS
-Combined Deck and Discard for Player 0 282  :  Expected 283  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 283  :  Expected 283  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 84  :  Expected 84  :  PASS
-Combined Deck and Discard for Player 1 315  :  Expected 316  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 316  :  Expected 316  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 5  :  Expected 5  :  PASS
-Combined Deck and Discard for Player 2 398  :  Expected 399  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
-handCount for Player 3 248  :  Expected 247  :  FAIL
-Combined Deck and Discard for Player 3 209  :  Expected 211  :  FAIL
+Combined Deck and Discard for Player 2 399  :  Expected 399  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
+handCount for Player 3 247  :  Expected 247  :  PASS
+Combined Deck and Discard for Player 3 211  :  Expected 211  :  PASS
 Top deck card for Player 3 not curse  :  Expected not curse  :  PASS
-Curse card supply count 30  :  Expected 27  :  FAIL
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 90, Current player is 1
 handCount for Player 0 90  :  Expected 90  :  PASS
-Combined Deck and Discard for Player 0 254  :  Expected 255  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 153  :  Expected 152  :  FAIL
-Combined Deck and Discard for Player 1 187  :  Expected 189  :  FAIL
+Combined Deck and Discard for Player 0 255  :  Expected 255  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 152  :  Expected 152  :  PASS
+Combined Deck and Discard for Player 1 189  :  Expected 189  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 13  :  Expected 13  :  PASS
-Combined Deck and Discard for Player 2 300  :  Expected 301  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 301  :  Expected 301  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 246  :  Expected 246  :  PASS
-Combined Deck and Discard for Player 3 73  :  Expected 74  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 74  :  Expected 74  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 91, Current player is 1
 handCount for Player 0 1  :  Expected 1  :  PASS
-Combined Deck and Discard for Player 0 218  :  Expected 219  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 135  :  Expected 134  :  FAIL
-Combined Deck and Discard for Player 1 338  :  Expected 340  :  FAIL
+Combined Deck and Discard for Player 0 219  :  Expected 219  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 134  :  Expected 134  :  PASS
+Combined Deck and Discard for Player 1 340  :  Expected 340  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 10  :  Expected 10  :  PASS
-Combined Deck and Discard for Player 2 351  :  Expected 352  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 352  :  Expected 352  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 165  :  Expected 165  :  PASS
-Combined Deck and Discard for Player 3 215  :  Expected 216  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 216  :  Expected 216  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 92, Current player is 2
 handCount for Player 0 82  :  Expected 82  :  PASS
-Combined Deck and Discard for Player 0 233  :  Expected 234  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 234  :  Expected 234  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 167  :  Expected 167  :  PASS
-Combined Deck and Discard for Player 1 225  :  Expected 226  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 116  :  Expected 115  :  FAIL
-Combined Deck and Discard for Player 2 256  :  Expected 258  :  FAIL
+Combined Deck and Discard for Player 1 226  :  Expected 226  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 115  :  Expected 115  :  PASS
+Combined Deck and Discard for Player 2 258  :  Expected 258  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 96  :  Expected 96  :  PASS
-Combined Deck and Discard for Player 3 177  :  Expected 178  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 178  :  Expected 178  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 93, Current player is 2
 handCount for Player 0 52  :  Expected 52  :  PASS
-Combined Deck and Discard for Player 0 349  :  Expected 350  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 0 350  :  Expected 350  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
 handCount for Player 1 262  :  Expected 262  :  PASS
-Combined Deck and Discard for Player 1 195  :  Expected 196  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
-handCount for Player 2 268  :  Expected 267  :  FAIL
-Combined Deck and Discard for Player 2 205  :  Expected 207  :  FAIL
+Combined Deck and Discard for Player 1 196  :  Expected 196  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
+handCount for Player 2 267  :  Expected 267  :  PASS
+Combined Deck and Discard for Player 2 207  :  Expected 207  :  PASS
 Top deck card for Player 2 not curse  :  Expected not curse  :  PASS
 handCount for Player 3 28  :  Expected 28  :  PASS
-Combined Deck and Discard for Player 3 245  :  Expected 246  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 246  :  Expected 246  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 94, Current player is 0
-handCount for Player 0 334  :  Expected 333  :  FAIL
-Combined Deck and Discard for Player 0 126  :  Expected 128  :  FAIL
+handCount for Player 0 333  :  Expected 333  :  PASS
+Combined Deck and Discard for Player 0 128  :  Expected 128  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 34  :  Expected 34  :  PASS
-Combined Deck and Discard for Player 1 302  :  Expected 303  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 303  :  Expected 303  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 209  :  Expected 209  :  PASS
-Combined Deck and Discard for Player 2 229  :  Expected 230  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 230  :  Expected 230  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 89  :  Expected 89  :  PASS
-Combined Deck and Discard for Player 3 283  :  Expected 284  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 284  :  Expected 284  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 95, Current player is 1
 handCount for Player 0 6  :  Expected 6  :  PASS
-Combined Deck and Discard for Player 0 116  :  Expected 117  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 46  :  Expected 45  :  FAIL
-Combined Deck and Discard for Player 1 296  :  Expected 298  :  FAIL
+Combined Deck and Discard for Player 0 117  :  Expected 117  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 45  :  Expected 45  :  PASS
+Combined Deck and Discard for Player 1 298  :  Expected 298  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 293  :  Expected 293  :  PASS
-Combined Deck and Discard for Player 2 76  :  Expected 77  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 77  :  Expected 77  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 140  :  Expected 140  :  PASS
-Combined Deck and Discard for Player 3 282  :  Expected 283  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 283  :  Expected 283  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 96, Current player is 1
 handCount for Player 0 145  :  Expected 145  :  PASS
-Combined Deck and Discard for Player 0 278  :  Expected 279  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 16  :  Expected 15  :  FAIL
-Combined Deck and Discard for Player 1 396  :  Expected 398  :  FAIL
+Combined Deck and Discard for Player 0 279  :  Expected 279  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 15  :  Expected 15  :  PASS
+Combined Deck and Discard for Player 1 398  :  Expected 398  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 52  :  Expected 52  :  PASS
-Combined Deck and Discard for Player 2 387  :  Expected 388  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 388  :  Expected 388  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 226  :  Expected 226  :  PASS
-Combined Deck and Discard for Player 3 242  :  Expected 243  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 243  :  Expected 243  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 97, Current player is 1
 handCount for Player 0 175  :  Expected 175  :  PASS
-Combined Deck and Discard for Player 0 136  :  Expected 137  :  FAIL
-Top deck card for Player 0 not curse  :  Expected curse  :  FAIL
-handCount for Player 1 1  :  Expected 0  :  FAIL
-Combined Deck and Discard for Player 1 353  :  Expected 355  :  FAIL
+Combined Deck and Discard for Player 0 137  :  Expected 137  :  PASS
+Top deck card for Player 0 curse  :  Expected curse  :  PASS
+handCount for Player 1 0  :  Expected 0  :  PASS
+Combined Deck and Discard for Player 1 355  :  Expected 355  :  PASS
 Top deck card for Player 1 not curse  :  Expected not curse  :  PASS
 handCount for Player 2 83  :  Expected 83  :  PASS
-Combined Deck and Discard for Player 2 210  :  Expected 211  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 211  :  Expected 211  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 124  :  Expected 124  :  PASS
-Combined Deck and Discard for Player 3 337  :  Expected 338  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 338  :  Expected 338  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 98, Current player is 0
-handCount for Player 0 167  :  Expected 166  :  FAIL
-Combined Deck and Discard for Player 0 306  :  Expected 308  :  FAIL
-Top deck card for Player 0 curse  :  Expected not curse  :  FAIL
+handCount for Player 0 166  :  Expected 166  :  PASS
+Combined Deck and Discard for Player 0 308  :  Expected 308  :  PASS
+Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 138  :  Expected 138  :  PASS
-Combined Deck and Discard for Player 1 185  :  Expected 186  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 186  :  Expected 186  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 147  :  Expected 147  :  PASS
-Combined Deck and Discard for Player 2 258  :  Expected 259  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 259  :  Expected 259  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 17  :  Expected 17  :  PASS
-Combined Deck and Discard for Player 3 410  :  Expected 411  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 411  :  Expected 411  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
 Test 99, Current player is 0
-handCount for Player 0 44  :  Expected 43  :  FAIL
-Combined Deck and Discard for Player 0 402  :  Expected 404  :  FAIL
+handCount for Player 0 43  :  Expected 43  :  PASS
+Combined Deck and Discard for Player 0 404  :  Expected 404  :  PASS
 Top deck card for Player 0 not curse  :  Expected not curse  :  PASS
 handCount for Player 1 36  :  Expected 36  :  PASS
-Combined Deck and Discard for Player 1 175  :  Expected 176  :  FAIL
-Top deck card for Player 1 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 1 176  :  Expected 176  :  PASS
+Top deck card for Player 1 curse  :  Expected curse  :  PASS
 handCount for Player 2 239  :  Expected 239  :  PASS
-Combined Deck and Discard for Player 2 186  :  Expected 187  :  FAIL
-Top deck card for Player 2 not curse  :  Expected curse  :  FAIL
+Combined Deck and Discard for Player 2 187  :  Expected 187  :  PASS
+Top deck card for Player 2 curse  :  Expected curse  :  PASS
 handCount for Player 3 22  :  Expected 22  :  PASS
-Combined Deck and Discard for Player 3 96  :  Expected 97  :  FAIL
-Top deck card for Player 3 not curse  :  Expected curse  :  FAIL
-Curse card supply count 30  :  Expected 27  :  FAIL
+Combined Deck and Discard for Player 3 97  :  Expected 97  :  PASS
+Top deck card for Player 3 curse  :  Expected curse  :  PASS
+Curse card supply count 27  :  Expected 27  :  PASS
 All other supplyCounts unchanged.  PASS
 
  >>>>>>>>>> Testing Sea Hag Complete <<<<<<<<<<
 
 File 'dominion.c'
-Lines executed:27.81% of 561
-Branches executed:28.54% of 417
-Taken at least once:20.38% of 417
-Calls executed:16.84% of 95
+Lines executed:28.75% of 567
+Branches executed:29.55% of 423
+Taken at least once:21.51% of 423
+Calls executed:17.71% of 96
 Creating 'dominion.c.gcov'
 
         -:    0:Source:dominion.c
@@ -3271,34 +3271,34 @@ call    0 never executed
     #####: 1175:  return -1;
         -: 1176:}
         -: 1177:
-function discardCard called 100 returned 100% blocks executed 78%
-      100: 1178:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+function discardCard called 200 returned 100% blocks executed 89%
+      200: 1178:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
         -: 1179:{
         -: 1180:
         -: 1181:  //if card is not trashed, added to Played pile
-      100: 1182:  if (trashFlag < 1)
-branch  0 taken 100 (fallthrough)
+      200: 1182:  if (trashFlag < 1)
+branch  0 taken 200 (fallthrough)
 branch  1 taken 0
         -: 1183:    {
         -: 1184:      //add card to played pile
-      100: 1185:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos];
-      100: 1186:      state->playedCardCount++;
+      200: 1185:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos];
+      200: 1186:      state->playedCardCount++;
         -: 1187:    }
         -: 1188:
         -: 1189:  //set played card to -1
-      100: 1190:  state->hand[currentPlayer][handPos] = -1;
+      200: 1190:  state->hand[currentPlayer][handPos] = -1;
         -: 1191:
         -: 1192:  //remove card from player's hand
-      100: 1193:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
-branch  0 taken 0 (fallthrough)
-branch  1 taken 100
+      200: 1193:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+branch  0 taken 1 (fallthrough)
+branch  1 taken 199
         -: 1194:    {
         -: 1195:      //reduce number of cards in hand
-    #####: 1196:      state->handCount[currentPlayer]--;
+        1: 1196:      state->handCount[currentPlayer]--;
         -: 1197:    }
-      100: 1198:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+      199: 1198:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
 branch  0 taken 0 (fallthrough)
-branch  1 taken 100
+branch  1 taken 199
         -: 1199:    {
         -: 1200:      //reduce number of cards in hand
     #####: 1201:      state->handCount[currentPlayer]--;
@@ -3306,14 +3306,14 @@ branch  1 taken 100
         -: 1203:  else
         -: 1204:    {
         -: 1205:      //replace discarded card with last card in hand
-      100: 1206:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+      199: 1206:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
         -: 1207:      //set last card to -1
-      100: 1208:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+      199: 1208:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
         -: 1209:      //reduce number of cards in hand
-      100: 1210:      state->handCount[currentPlayer]--;
+      199: 1210:      state->handCount[currentPlayer]--;
         -: 1211:    }
         -: 1212:
-      100: 1213:  return 0;
+      200: 1213:  return 0;
         -: 1214:}
         -: 1215:
 function gainCard called 0 returned 0% blocks executed 0%
@@ -3519,25 +3519,45 @@ call    0 never executed
     #####: 1366:}
         -: 1367:
         -: 1368:
-        -: 1369:/*changed conditional from != to ==.  Expected to give curse to currentPlayer instead of other players.
-        -: 1370:/ Instead, Sea Hag card now seems to have no effect when played.*/
+        -: 1369:/*Implementation of Sea Hag card now fixed*/
 function sea called 100 returned 100% blocks executed 100%
-      100: 1371:void sea(struct gameState *state, int handPos, int currentPlayer) {
-        -: 1372:	int i;
-      500: 1373:	for (i = 0; i < state->numPlayers; i++){
+      100: 1370:void sea(struct gameState *state, int handPos, int currentPlayer) {
+        -: 1371:	int i;
+      500: 1372:	for (i = 0; i < state->numPlayers; i++){
 branch  0 taken 400
 branch  1 taken 100 (fallthrough)
-      400: 1374:	  if (i == currentPlayer){//changed != to ==
-branch  0 taken 100 (fallthrough)
-branch  1 taken 300
-      100: 1375:	    state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
-      100: 1376:		state->deckCount[i]--;
-      100: 1377:	    state->discardCount[i]++;
-      100: 1378:	    state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
-        -: 1379:	  }
-        -: 1380:    }
-      100: 1381:}
-        -: 1382:
-        -: 1383:
-        -: 1384://end of dominion.c
-        -: 1385:
+      400: 1373:      if (i != currentPlayer){
+branch  0 taken 300 (fallthrough)
+branch  1 taken 100
+      300: 1374:        if (state->supplyCount[curse] > 0) {
+branch  0 taken 300 (fallthrough)
+branch  1 taken 0
+      300: 1375:		  if (state->deckCount[i] < 1){//if the deck is empty we need to shuffle discard and add to deck
+branch  0 taken 2 (fallthrough)
+branch  1 taken 298
+        -: 1376:		        //Step 1 Shuffle the discard pile back into a deck
+        -: 1377:			    int j;
+        -: 1378:				//Move discard to deck
+      157: 1379:				for (j = 0; j < state->discardCount[i];j++){
+branch  0 taken 155
+branch  1 taken 2 (fallthrough)
+      155: 1380:				  state->deck[i][j] = state->discard[i][j];
+      155: 1381:				  state->discard[i][j] = -1;
+        -: 1382:				}
+        -: 1383:		  }
+      300: 1384:          state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]-1];
+      300: 1385:	      state->discardCount[i]++;
+      300: 1386:	      state->deck[i][state->deckCount[i]-1] = curse;//Top card now a curse
+      300: 1387:	      state->supplyCount[curse]--;
+        -: 1388:        }
+        -: 1389:	  }
+        -: 1390:    }
+        -: 1391:
+        -: 1392:    //put played card in played card pile
+      100: 1393:    discardCard(handPos, currentPlayer, state, 0);
+call    0 returned 100
+      100: 1394:}
+        -: 1395:
+        -: 1396:
+        -: 1397://end of dominion.c
+        -: 1398:

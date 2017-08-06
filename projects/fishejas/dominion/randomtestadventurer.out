@@ -1088,10 +1088,10 @@ All supplyCounts unchanged.  PASS
  >>>>>>>>>> Testing Adventurer Complete <<<<<<<<<<
 
 File 'dominion.c'
-Lines executed:22.82% of 561
-Branches executed:25.66% of 417
-Taken at least once:17.75% of 417
-Calls executed:12.63% of 95
+Lines executed:22.57% of 567
+Branches executed:25.30% of 423
+Taken at least once:17.49% of 423
+Calls executed:12.50% of 96
 Creating 'dominion.c.gcov'
 
         -:    0:Source:dominion.c
@@ -3001,25 +3001,45 @@ call    0 never executed
     #####: 1366:}
         -: 1367:
         -: 1368:
-        -: 1369:/*changed conditional from != to ==.  Expected to give curse to currentPlayer instead of other players.
-        -: 1370:/ Instead, Sea Hag card now seems to have no effect when played.*/
+        -: 1369:/*Implementation of Sea Hag card now fixed*/
 function sea called 0 returned 0% blocks executed 0%
-    #####: 1371:void sea(struct gameState *state, int handPos, int currentPlayer) {
-        -: 1372:	int i;
-    #####: 1373:	for (i = 0; i < state->numPlayers; i++){
+    #####: 1370:void sea(struct gameState *state, int handPos, int currentPlayer) {
+        -: 1371:	int i;
+    #####: 1372:	for (i = 0; i < state->numPlayers; i++){
 branch  0 never executed
 branch  1 never executed
-    #####: 1374:	  if (i == currentPlayer){//changed != to ==
+    #####: 1373:      if (i != currentPlayer){
 branch  0 never executed
 branch  1 never executed
-    #####: 1375:	    state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
-    #####: 1376:		state->deckCount[i]--;
-    #####: 1377:	    state->discardCount[i]++;
-    #####: 1378:	    state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
-        -: 1379:	  }
-        -: 1380:    }
-    #####: 1381:}
-        -: 1382:
-        -: 1383:
-        -: 1384://end of dominion.c
-        -: 1385:
+    #####: 1374:        if (state->supplyCount[curse] > 0) {
+branch  0 never executed
+branch  1 never executed
+    #####: 1375:		  if (state->deckCount[i] < 1){//if the deck is empty we need to shuffle discard and add to deck
+branch  0 never executed
+branch  1 never executed
+        -: 1376:		        //Step 1 Shuffle the discard pile back into a deck
+        -: 1377:			    int j;
+        -: 1378:				//Move discard to deck
+    #####: 1379:				for (j = 0; j < state->discardCount[i];j++){
+branch  0 never executed
+branch  1 never executed
+    #####: 1380:				  state->deck[i][j] = state->discard[i][j];
+    #####: 1381:				  state->discard[i][j] = -1;
+        -: 1382:				}
+        -: 1383:		  }
+    #####: 1384:          state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]-1];
+    #####: 1385:	      state->discardCount[i]++;
+    #####: 1386:	      state->deck[i][state->deckCount[i]-1] = curse;//Top card now a curse
+    #####: 1387:	      state->supplyCount[curse]--;
+        -: 1388:        }
+        -: 1389:	  }
+        -: 1390:    }
+        -: 1391:
+        -: 1392:    //put played card in played card pile
+    #####: 1393:    discardCard(handPos, currentPlayer, state, 0);
+call    0 never executed
+    #####: 1394:}
+        -: 1395:
+        -: 1396:
+        -: 1397://end of dominion.c
+        -: 1398:

@@ -73,7 +73,7 @@ int main() {
 			else
 				printf("Top deck card for Player %d not curse  :  Expected curse  :  FAIL\n", curPlayer);
 		}
-		if (Gcopy.supplyCount[0] == G.supplyCount[0]-numPlayers)//check that curse cards were used
+		if (Gcopy.supplyCount[0] == G.supplyCount[0]-(numPlayers-1))//check that curse cards were used
 			printf("Curse cards decreased as expected:  FAIL\n");
 		else
 			printf("Curse cards did not decrease as expected:  FAIL\n");
@@ -140,7 +140,7 @@ int main() {
 			else
 				printf("Top deck card for Player %d not curse  :  Expected curse  :  FAIL\n", curPlayer);
 		}
-		if (Gcopy.supplyCount[0] == G.supplyCount[0]-numPlayers)//check that curse cards were used
+		if (Gcopy.supplyCount[0] == G.supplyCount[0]-(numPlayers-1))//check that curse cards were used
 			printf("Curse cards decreased as expected:  FAIL\n");
 		else
 			printf("Curse cards did not decrease as expected:  FAIL\n");

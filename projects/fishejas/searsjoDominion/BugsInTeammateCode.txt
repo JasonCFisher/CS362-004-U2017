@@ -1,0 +1,200 @@
+Noverse Bug Reporting Template
+Bug 1
+==============================
+
+Title:  Smithy draws 1 less card than required
+
+Class:  Serious Bug
+e.g. "Feature Request", "System Error", "Serious Bug"
+
+Date:  8/22017        
+Reported By:   Jason Fisher
+Email:  fishejas@oregonstate.edu    
+
+
+Product:   searsjoDominion                     Version:  searsjo-assignment-4
+Platform:  Linux (flip server)                    Version:  3.10.0-327.36.3.e17.x86_64
+Browser:   Not Applicable                     Version:  Not Applicable
+URL:   Not Applicable     
+
+Is it reproducible: Yes
+
+Description
+===========
+Playing the Smithy card through the card effect function causes the current
+player to draw only two cards, instead of 3.  This error seems consistently occur whenever the
+card is played, regardless of game circumstances.
+
+
+Steps to Produce/Reproduce
+--------------------------
+1. Launch the player executable file and initialize a 2 player game
+2. Add the Smithy card to the current player's hand with the following command:  add 13
+3. The Smithy card should now be in the current player's hand at position 5
+4. Play the Smithy card with the following command:  play 5
+5. Check the current player's hand with the following command:  show 
+
+
+Expected Results
+----------------
+After playing the Smithy card, the Smithy card should be removed from the current player's hand
+and 3 cards should be drawn from the current player's deck.  This means that the current player's hand
+should increase by a total of two cards and the deck should decrease by 3 cards.
+
+
+Actual Results
+--------------
+The Smithy card is removed from the current player's hand, but only two cards are added to the 
+current player's hand, for a total increase of 1 card.  The current player's deck cannot be checked
+within the game mode itself, but both manually written and randomly generated test cases have confirmed
+that the current player's deck is only decreased by two cards.
+
+
+Workarounds
+-----------
+None
+
+
+Attachments
+-----------
+The suspect code is as follows:
+
+void alteredSmithy(struct gameState *state, int handPos){
+	
+	int currentPlayer = whoseTurn(state);
+	int i;
+	      //+3 Cards
+    for (i = 1; i < 3; i++)
+	{
+	  drawCard(currentPlayer, state);
+	}
+			
+      //discard card from hand
+      discardCard(handPos, currentPlayer, state, 0);
+      return;
+}
+
+
+Other Information
+-----------------
+The for loop in the code shown above appears to be incorrect, in that it begins
+with i = 1, only loops while i < 3, and increments i in each loop.  This could be fixed
+by initializing i to 0 instead of 1, or looping while i <= 3
+
+
+
+
+
+
+
+
+
+
+
+Noverse Bug Reporting Template
+Bug 2
+==============================
+
+Title:  Adventurer card draws 1 extra treasure card  
+
+Class:  Serious Bug
+e.g. "Feature Request", "System Error", "Serious Bug"
+
+Date:  8/2/2017         
+Reported By:   Jason Fisher
+Email:  fishejas@oregonstate.edu    
+
+
+Product:   searsjoDominion                     Version:  searsjo-assignment-4
+Platform:  Linux (flip server)                    Version:  3.10.0-327.36.3.e17.x86_64
+Browser:   Not Applicable                     Version:  Not Applicable
+URL:   Not Applicable     
+
+Is it reproducible: Yes
+
+Description
+===========
+Playing the Adventurer card causes cards to be drawn from the current player;s deck until 3 
+treasure cards have been found, instead of 2 treasure cards.  These 3 treasure cards are added 
+to the current player's hand, while all other cards that were drawn are added to the discard pile.  
+This error seems consistently occur whenever the card is played, regardless of game circumstances.
+
+
+Steps to Produce/Reproduce
+--------------------------
+1. Launch the player executable file and initialize a 2 player game
+2. Add the Adventurer card to the current player's hand with the following command:  add 7
+3. The Adventurer card should now be in the current player's hand at position 5
+4. Play the Adventurer card with the following command:  play 5
+5. Check the current player's hand with the following command:  show 
+
+
+Expected Results
+----------------
+The Adventurer card is removed from the current player's hand.  Cards are removed from the 
+current player's deck until 2 treasure cards are found.  The 2 treasure cards are added to 
+the current player's hand and all other cards that were removed from the deck are placed in the 
+discard pile.
+
+
+Actual Results
+--------------
+Cards are removed from the current player's deck until 3 treasure cards are found.  All 3 treasure
+cards are added to the current player's hand.  All other aspects of this card effect function as 
+expected.
+
+
+Workarounds
+-----------
+None
+
+
+Attachments
+-----------
+The suspect code is as follows:
+
+ void alteredAdventurer(struct gameState *state, int handPos){
+  	
+  	int drawntreasure = 0;
+	int currentPlayer = whoseTurn(state);
+	int cardDrawn;
+	int temphand[MAX_HAND];
+	int z = 0;  //Temp Hand Counter
+
+	  while(drawntreasure<3){  
+		if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+		  shuffle(currentPlayer, state);
+		}
+		drawCard(currentPlayer, state);
+		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+		  drawntreasure++;
+		else{
+		  temphand[z]=cardDrawn;
+		  state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+		  z++;
+
+		}
+	  }
+	  while(z-1>=0){
+		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+		z=z-1;
+	  }
+	  discardCard(handPos, currentPlayer, state, 0);
+	  return;
+
+
+  }
+
+
+Other Information
+-----------------
+The problem code appears to be as follows:
+
+	while(drawntreasure<3){
+
+This will cause the while loop to repeat 3 times instead of only 2.  Changing it to 
+
+	while(drawntreasure<2){
+
+should fix the problem
